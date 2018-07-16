@@ -1,4 +1,4 @@
-<p> Class Schedule may change </p>
+# Class Schedule may change
 # Class 1
 Intro to CS and Python
 # Class 2
