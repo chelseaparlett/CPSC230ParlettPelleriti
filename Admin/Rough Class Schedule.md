@@ -1,6 +1,6 @@
 # Class Schedule may change
 # Class 1
-Intro to CS and Python
+* Intro to CS and Python
 # Class 2
 Getting Acquainted with Python, Jupyter Notebooks, and IDLE
 (Lesson 1 0:00-30:58)
