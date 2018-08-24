@@ -99,8 +99,3 @@
   * HW10
 ### Class 28
   * Project help and Review
-## Week 15
-### Class 29
-  * Project help and Review
-### Class 30
-  * Project help and Review
