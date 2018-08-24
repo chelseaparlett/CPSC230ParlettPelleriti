@@ -2,7 +2,7 @@
 ## Week 1
 ### Class 1
 * Intro to CS and Python
-## Class 2
+### Class 2
 * Getting Acquainted with Python, Jupyter Notebooks, and IDLE
 * (Lesson 1 0:00-30:58)
 ## Week 2
