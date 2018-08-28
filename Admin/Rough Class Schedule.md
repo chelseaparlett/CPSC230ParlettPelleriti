@@ -4,34 +4,34 @@
 * Intro to CS and Python
 ### Class 2
 * Getting Acquainted with Python, Jupyter Notebooks, and IDLE
-* WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 1)
+* [WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 1)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%201)
 ## Week 2
 ### Class 3
   * Getting Acquainted with Python II
-  * WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 2 and 3)
+  * [WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 2 and 3)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%201)
   * [FOR NEXT CLASS: HW1](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%202)
 ### Class 4
   * Getting Acquainted with Python III
-  * WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 4)
+  * [WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 4)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%201)
 ## Week 3
 ### Class 5
   * If/Else Statements and While Loops
-  * [WATCH THIS BEFORE CLASS: (Lesson 2 0:00-24:00)](https://www.youtube.com/watch?v=ykf7T6qbhLk)
+  * [WATCH THIS BEFORE CLASS: (Lesson 2 0:00-24:00)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%202)
 ### Class 6
   * For Loops
-  * [WATCH THIS BEFORE CLASS: (Lesson 2 24:00-end)](https://www.youtube.com/watch?v=ykf7T6qbhLk)
+  * [WATCH THIS BEFORE CLASS: (Lesson 2 24:00-end)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%202)
   * [FOR NEXT CLASS: HW2](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%203)
 ## Week 4
 ### Class 7
   * For Loops
 ### Class 8
   * Problem Solving with Python
-  * WATCH THIS BEFORE CLASS: (Lesson 3 parts 1 and 2)
+  * [WATCH THIS BEFORE CLASS: (Lesson 3 parts 1 and 2)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%203)
   * [FOR NEXT CLASS: HW3](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%204)
 ## Week 5
 ### Class 9
   * MORE Problem Solving with Python
-  * WATCH THIS BEFORE CLASS: (Lesson 3 part 3)
+  * [WATCH THIS BEFORE CLASS: (Lesson 3 part 3)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%203)
 ### Class 10
   * Lists
   * WATCH THIS BEFORE CLASS: (Lesson 4 parts 1 and 2)
