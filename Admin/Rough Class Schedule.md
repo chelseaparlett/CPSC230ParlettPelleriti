@@ -16,10 +16,10 @@
 ## Week 3
 ### Class 5
   * If/Else Statements and While Loops
-  * WATCH THIS BEFORE CLASS: (Lesson 2 0:00-24:00)
+  * [WATCH THIS BEFORE CLASS: (Lesson 2 0:00-24:00)](https://www.youtube.com/watch?v=ykf7T6qbhLk)
 ### Class 6
   * For Loops
-  * WATCH THIS BEFORE CLASS: (Lesson 2 24:00-end)
+  * [WATCH THIS BEFORE CLASS: (Lesson 2 24:00-end)](https://www.youtube.com/watch?v=ykf7T6qbhLk)
   * FOR NEXT CLASS: HW2
 ## Week 4
 ### Class 7
