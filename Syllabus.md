@@ -5,7 +5,7 @@
 ## Instructor: Prof. Chelsea Parlett-Pelleriti (cparlett@chapman.edu)
 ## Lecture: TTh 11:30-12:45pm
 ## Office Hours: TBD
-##INSTALLS
+## INSTALLS
 
 * [Install Python](https://www.anaconda.com/download/#macos)
 * [Install Atom](https://atom.io/)
