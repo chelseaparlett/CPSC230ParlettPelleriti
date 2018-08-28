@@ -4,15 +4,15 @@
 * Intro to CS and Python
 ### Class 2
 * Getting Acquainted with Python, Jupyter Notebooks, and IDLE
-* (Lesson 1 0:00-30:58)
+* (Lesson 1 Pt. 1)
 ## Week 2
 ### Class 3
   * Getting Acquainted with Python II
-  * (Lesson 1 30:58-end)
+  * (Lesson 1 Pt. 2)
   * HW 1
 ### Class 4
   * Getting Acquainted with Python III
-  * (Lesson 1 30:58-end)
+  * (Lesson 1 Pts. 3 and 4)
 ## Week 3
 ### Class 5
   * If/Else Statements and While Loops
