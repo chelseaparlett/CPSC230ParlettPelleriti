@@ -4,44 +4,43 @@
 * Intro to CS and Python
 ### Class 2
 * Getting Acquainted with Python, Jupyter Notebooks, and IDLE
-* (Lesson 1 Pt. 1)
+* WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 1)
 ## Week 2
 ### Class 3
   * Getting Acquainted with Python II
-  * (Lesson 1 Pt. 2)
-  * HW 1
+  * WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 2 and 3)
+  * FOR NEXT CLASS: HW1
 ### Class 4
   * Getting Acquainted with Python III
-  * (Lesson 1 Pts. 3 and 4)
+  * WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 4)
 ## Week 3
 ### Class 5
   * If/Else Statements and While Loops
-  * (Lesson 2 0:00-24:00)
+  * WATCH THIS BEFORE CLASS: (Lesson 2 0:00-24:00)
 ### Class 6
-  * If/Else Statements and While Loops
-  * (Lesson 2 0:00-24:00)
-  * HW2
+  * For Loops
+  * WATCH THIS BEFORE CLASS: (Lesson 2 24:00-end)
+  * FOR NEXT CLASS: HW2
 ## Week 4
 ### Class 7
   * For Loops
-  * (Lesson 2 24:00-end)
 ### Class 8
   * Problem Solving with Python
-  * (Lesson 3 parts 1 and 2)
-  * HW3
+  * WATCH THIS BEFORE CLASS: (Lesson 3 parts 1 and 2)
+  * FOR NEXT CLASS: HW3
 ## Week 5
 ### Class 9
   * MORE Problem Solving with Python
-  * (Lesson 3 part 3)
+  * WATCH THIS BEFORE CLASS: (Lesson 3 part 3)
 ### Class 10
   * Lists
-  * (Lesson 4 parts 1 and 2)
-  * HW 4
+  * WATCH THIS BEFORE CLASS: (Lesson 4 parts 1 and 2)
+  * FOR NEXT CLASS: HW4
 ## Week 6
 ### Class 11
   * More Lists + Looping with Lists
-  * (Lesson 4 part 3)
-  * HW5
+  * WATCH THIS BEFORE CLASS: (Lesson 4 part 3)
+  * FOR NEXT CLASS: HW5
 ### Class 12
   * Review Day
 ## Week 7
@@ -49,41 +48,41 @@
   * Exam 1
 ### Class 14
   * Dictionaries
-  * (Lesson 5)
+  * WATCH THIS BEFORE CLASS: (Lesson 5)
 ## Week 8
 ### Class 15
   * Dictionaries Review
-  * HW6
+  * FOR NEXT CLASS: HW6
 ### Class 16
   * Functions and Control Flow
-  * (Lesson 6 part 1 and supplemental)
+  * WATCH THIS BEFORE CLASS: (Lesson 6 part 1 and supplemental)
 ## Week 9
 ### Class 17
   * Functions and Control Flow
-  * (Lesson 6 part 2)
-  * HW7
+  * WATCH THIS BEFORE CLASS: (Lesson 6 part 2)
+  * FOR NEXT CLASS: HW7
 ### Class 18
   * MORE functions (seriously)
-  * (Lesson 7)
+  * WATCH THIS BEFORE CLASS: (Lesson 7)
 ## Week 10
 ### Class 19
 *   File  I/O
-  * (Lesson 8 part 1)
+  * WATCH THIS BEFORE CLASS: (Lesson 8 part 1)
 ### Class 20
 *   More File I/O
-*   HW8
+*   FOR NEXT CLASS: HW8
 ## Week 11
 ### Class 21
 * MORE functions (seriously seriously)
-  * (Lesson 8 part 2)
+  * WATCH THIS BEFORE CLASS: (Lesson 8 part 2)
 ### Class 22
   * Review and Refactoring
-  * (Lesson 9)
-  * HW9
+  * WATCH THIS BEFORE CLASS: (Lesson 9)
+  * FOR NEXT CLASS: HW9
 ## Week 12
 ### Class 23
   * Review and Refactoring
-  * (Lesson 9)
+  * WATCH THIS BEFORE CLASS: (Lesson 9)
 ### Class 24
   * Review Day
 ## Week 13
@@ -91,11 +90,11 @@
   * Exam 2
 ### Class 26
   * Classes
-  * (Lesson 10)
+  * WATCH THIS BEFORE CLASS: (Lesson 10)
 ## Week 14
 ### Class 27
   * Classes
-  * (Lesson 11)
-  * HW10
+  * WATCH THIS BEFORE CLASS: (Lesson 11)
+  * FOR NEXT CLASS: HW10
 ### Class 28
   * Project help and Review
