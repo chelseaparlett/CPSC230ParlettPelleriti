@@ -9,7 +9,7 @@
 ### Class 3
   * Getting Acquainted with Python II
   * WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 2 and 3)
-  * FOR NEXT CLASS: HW1
+  * [FOR NEXT CLASS: HW1](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%202)
 ### Class 4
   * Getting Acquainted with Python III
   * WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 4)
@@ -20,14 +20,14 @@
 ### Class 6
   * For Loops
   * [WATCH THIS BEFORE CLASS: (Lesson 2 24:00-end)](https://www.youtube.com/watch?v=ykf7T6qbhLk)
-  * FOR NEXT CLASS: HW2
+  * [FOR NEXT CLASS: HW2](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%203)
 ## Week 4
 ### Class 7
   * For Loops
 ### Class 8
   * Problem Solving with Python
   * WATCH THIS BEFORE CLASS: (Lesson 3 parts 1 and 2)
-  * FOR NEXT CLASS: HW3
+  * [FOR NEXT CLASS: HW3](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%204)
 ## Week 5
 ### Class 9
   * MORE Problem Solving with Python
@@ -35,12 +35,12 @@
 ### Class 10
   * Lists
   * WATCH THIS BEFORE CLASS: (Lesson 4 parts 1 and 2)
-  * FOR NEXT CLASS: HW4
+  * [FOR NEXT CLASS: HW4](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%205)
 ## Week 6
 ### Class 11
   * More Lists + Looping with Lists
   * WATCH THIS BEFORE CLASS: (Lesson 4 part 3)
-  * FOR NEXT CLASS: HW5
+  * [FOR NEXT CLASS: HW5](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%206)
 ### Class 12
   * Review Day
 ## Week 7
@@ -52,7 +52,7 @@
 ## Week 8
 ### Class 15
   * Dictionaries Review
-  * FOR NEXT CLASS: HW6
+  * [FOR NEXT CLASS: HW6](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%208)
 ### Class 16
   * Functions and Control Flow
   * WATCH THIS BEFORE CLASS: (Lesson 6 part 1 and supplemental)
@@ -60,7 +60,7 @@
 ### Class 17
   * Functions and Control Flow
   * WATCH THIS BEFORE CLASS: (Lesson 6 part 2)
-  * FOR NEXT CLASS: HW7
+  * [FOR NEXT CLASS: HW7](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%209)
 ### Class 18
   * MORE functions (seriously)
   * WATCH THIS BEFORE CLASS: (Lesson 7)
@@ -70,7 +70,7 @@
   * WATCH THIS BEFORE CLASS: (Lesson 8 part 1)
 ### Class 20
 *   More File I/O
-*   FOR NEXT CLASS: HW8
+*   [FOR NEXT CLASS: HW8](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2010)
 ## Week 11
 ### Class 21
 * MORE functions (seriously seriously)
@@ -78,7 +78,7 @@
 ### Class 22
   * Review and Refactoring
   * WATCH THIS BEFORE CLASS: (Lesson 9)
-  * FOR NEXT CLASS: HW9
+  * [FOR NEXT CLASS: HW9](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2011)
 ## Week 12
 ### Class 23
   * Review and Refactoring
@@ -95,6 +95,6 @@
 ### Class 27
   * Classes
   * WATCH THIS BEFORE CLASS: (Lesson 11)
-  * FOR NEXT CLASS: HW10
+  * [FOR NEXT CLASS: HW10](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2014)
 ### Class 28
   * Project help and Review
