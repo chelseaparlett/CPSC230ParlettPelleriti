@@ -1,10 +1,14 @@
 # CPSC 230 --  Computer Science I
-# Interterm 2018
+# Fall '18
 # Syllabus
 
 ## Instructor: Prof. Chelsea Parlett-Pelleriti (cparlett@chapman.edu)
-## Lecture: MTWTh 1pm-3:50pm
-## Office Hours:
+## Lecture: TTh 11:30-12:45pm
+## Office Hours: TBD
+##INSTALLS
+
+* [Install Python](https://www.anaconda.com/download/#macos)
+* [Install Atom](https://atom.io/)
 
 ## Overview:
 CPSC 230 is an introductory course designed to introduce students to the field of computer science in general and computer programming in particular. After a brief coverage of fundamental computer architecture, students will learn the foundations of software development using the programming language Python. Topics include basic program organization, data types, conditionals, repetition, functions, and file I/O. Object-oriented principles will be introduced. When possible techniques will be applied to problems from other academic disciplines.
