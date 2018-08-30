@@ -4,7 +4,7 @@
 
 ## Instructor: Prof. Chelsea Parlett-Pelleriti (cparlett@chapman.edu)
 ## Lecture: TTh 11:30-12:45pm
-## Office Hours: TBD
+## Office Hours: Thursdays 4:00pm-5:30pm, near Keck 130, and by appointment (in person or Skype)
 ## INSTALLS
 
 * [Install Python](https://www.anaconda.com/download/#macos)
