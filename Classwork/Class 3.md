@@ -10,9 +10,9 @@ sentence1d = " day."
 
 <p> Use the sentence fragments and get user input for a *place* and an *adjective* and store them in  the variables place_madlib and adj_madlib
 
-## print out the new complete sentence by adding the sentence fragments and new  words together
+print out the new complete sentence by adding the sentence fragments and new  words together
 
-#hint:
+hint:
 ```
 # a = "hello "
 # b = "have a nice day!"
