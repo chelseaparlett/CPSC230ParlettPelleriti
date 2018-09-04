@@ -1,7 +1,7 @@
 ## Video Lecture(s)
 * [Lesson 1 Pt. 1](https://youtu.be/CeQcjJNG3lM)
 * [Lesson 1 Pt. 2](https://youtu.be/SeobSHhglfY)
-* [Lesson 1 Pt. 3](https://youtu.be/NjWsgrMLpMM)
+* [Lesson 1 Pt. 3](https://youtu.be/tYCdSYmCyhc)
 * [Lesson 1 Pt. 4](https://youtu.be/nxzwTUXLfUg)
 
 ## Outside Resources
