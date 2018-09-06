@@ -2,9 +2,9 @@
 
 print("I hate sand.")
 
-adj1 = input()
-adj2 = input()
-adj3 = input()
+adj1 = input("What is an adj describing sand? ")
+adj2 = input("What is an adj describing sand? ")
+adj3 = input("What is an adj describing sand? ")
 
 print("it's "  + adj1 + " and "  + adj2 + " and " + adj3 + ". And  it gets everywhere.")
 #--------------------------------------------
