@@ -17,6 +17,7 @@
   * [WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 4)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%201)
 ## Week 3
 ### Class 5
+  * QUIZ
   * If/Else Statements and While Loops
   * [WATCH THIS BEFORE CLASS: (Lesson 2 0:00-24:00)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%202)
 ### Class 6
@@ -25,6 +26,7 @@
   * [FOR NEXT CLASS: HW2](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%203)
 ## Week 4
 ### Class 7
+  * QUIZ  
   * For Loops
 ### Class 8
   * Problem Solving with Python
@@ -32,6 +34,7 @@
   * [FOR NEXT CLASS: HW3](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%204)
 ## Week 5
 ### Class 9
+  * QUIZ
   * MORE Problem Solving with Python
   * [WATCH THIS BEFORE CLASS: (Lesson 3 part 3)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%203)
 ### Class 10
@@ -40,6 +43,7 @@
   * [FOR NEXT CLASS: HW4](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%205)
 ## Week 6
 ### Class 11
+  * QUIZ
   * More Lists + Looping with Lists
   * WATCH THIS BEFORE CLASS: (Lesson 4 part 3)
   * [FOR NEXT CLASS: HW5](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%206)
@@ -53,6 +57,7 @@
   * WATCH THIS BEFORE CLASS: (Lesson 5)
 ## Week 8
 ### Class 15
+  * QUIZ
   * Dictionaries Review
   * [FOR NEXT CLASS: HW6](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%208)
 ### Class 16
@@ -60,6 +65,7 @@
   * WATCH THIS BEFORE CLASS: (Lesson 6 part 1 and supplemental)
 ## Week 9
 ### Class 17
+  * QUIZ
   * Functions and Control Flow
   * WATCH THIS BEFORE CLASS: (Lesson 6 part 2)
   * [FOR NEXT CLASS: HW7](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%209)
@@ -68,14 +74,16 @@
   * WATCH THIS BEFORE CLASS: (Lesson 7)
 ## Week 10
 ### Class 19
-*   File  I/O
+  * QUIZ
+  * File  I/O
   * WATCH THIS BEFORE CLASS: (Lesson 8 part 1)
 ### Class 20
 *   More File I/O
 *   [FOR NEXT CLASS: HW8](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2010)
 ## Week 11
 ### Class 21
-* MORE functions (seriously seriously)
+  * QUIZ
+  * MORE functions (seriously seriously)
   * WATCH THIS BEFORE CLASS: (Lesson 8 part 2)
 ### Class 22
   * Review and Refactoring
@@ -83,6 +91,7 @@
   * [FOR NEXT CLASS: HW9](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2011)
 ## Week 12
 ### Class 23
+  * QUIZ
   * Review and Refactoring
   * WATCH THIS BEFORE CLASS: (Lesson 9)
 ### Class 24
@@ -95,6 +104,7 @@
   * WATCH THIS BEFORE CLASS: (Lesson 10)
 ## Week 14
 ### Class 27
+  * QUIZ
   * Classes
   * WATCH THIS BEFORE CLASS: (Lesson 11)
   * [FOR NEXT CLASS: HW10](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2014)

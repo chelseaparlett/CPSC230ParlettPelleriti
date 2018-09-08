@@ -12,7 +12,7 @@
 
 **TotalPrice.py**: Add if statements to check that the sale price and sales tax are valid values, that is, not negative. If they are, prompt the user of their mistake. Your program should only calculate and display the total price if the total is positive, otherwise, it should tell the user the calculations could not be made.
 
-**Quadratic.py**: Add an if statement to check if the value of the discriminate is negative. If the discriminate is negative prompt the user. Also, your program should not continue with the square root calculation, hence avoiding the "math domain error".
+**Quadratic.pyset de**: Add an if statement to check if the value of the discriminate is negative. If the discriminate is negative prompt the user. Also, your program should not continue with the square root calculation, hence avoiding the "math domain error".
 
 
 
