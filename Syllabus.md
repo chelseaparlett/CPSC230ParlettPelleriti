@@ -5,6 +5,8 @@
 ## Instructor: Prof. Chelsea Parlett-Pelleriti (cparlett@chapman.edu)
 ## Lecture: TTh 11:30-12:45pm
 ## Office Hours: Thursdays 4:00pm-5:30pm, near Keck 130, and by appointment (in person or Skype)
+## TLT Office Hours
+* [Here](https://www.chapman.edu/students/academic-resources/tutoring-center/_files/tutoring-schedules/cpsc-230.pdf)
 ## INSTALLS
 
 * [Install Python](https://www.anaconda.com/download/#macos)
