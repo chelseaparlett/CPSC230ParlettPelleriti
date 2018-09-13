@@ -6,6 +6,7 @@ if x < 100:
 k = "treason"
 if len(k) == 5:
     print("5 long")
+    print("Cool")
 #--------------------------------
 a = input("Type your favorite word ")
 
@@ -26,7 +27,7 @@ else:
 #--------------------------------
 a = "a"
 
-if a in 'aeiou':
+if a in 'AEIOUaeiou':
     print("VOWEL!")
 else:
     print("NOT a vowel.")
@@ -69,8 +70,7 @@ while k:
         k = False
     else:
         j = input("pick a word.")
-else:
-    print("done")
+
 #--------------------------------
 j = "begin"
 
