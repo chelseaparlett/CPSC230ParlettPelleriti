@@ -26,9 +26,9 @@
   * [FOR NEXT CLASS: HW2](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%203)
 ## Week 4
 ### Class 7
-  * QUIZ  
   * For Loops
 ### Class 8
+  * QUIZ
   * Problem Solving with Python
   * [WATCH THIS BEFORE CLASS: (Lesson 3 parts 1 and 2)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%203)
   * [FOR NEXT CLASS: HW3](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%204)
