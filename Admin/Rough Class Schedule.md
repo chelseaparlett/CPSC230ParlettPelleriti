@@ -31,21 +31,21 @@
   * QUIZ
   * Problem Solving with Python
   * [WATCH THIS BEFORE CLASS: (Lesson 3 parts 1 and 2)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%203)
-  * [FOR NEXT CLASS: HW3](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%204)
 ## Week 5
 ### Class 9
   * QUIZ
   * MORE Problem Solving with Python
   * [WATCH THIS BEFORE CLASS: (Lesson 3 part 3)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%203)
+  * [FOR NEXT CLASS: HW3](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%204)
 ### Class 10
   * Lists
-  * WATCH THIS BEFORE CLASS: (Lesson 4 parts 1 and 2)
+  * [WATCH THIS BEFORE CLASS: (Lesson 4 parts 1 and 2)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%204)
   * [FOR NEXT CLASS: HW4](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%205)
 ## Week 6
 ### Class 11
   * QUIZ
   * More Lists + Looping with Lists
-  * WATCH THIS BEFORE CLASS: (Lesson 4 part 3)
+  * [WATCH THIS BEFORE CLASS: (Lesson 4 part 3)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%204)
   * [FOR NEXT CLASS: HW5](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%206)
 ### Class 12
   * Review Day
@@ -54,7 +54,7 @@
   * Exam 1
 ### Class 14
   * Dictionaries
-  * WATCH THIS BEFORE CLASS: (Lesson 5)
+  * [WATCH THIS BEFORE CLASS: (Lesson 5)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%205)
 ## Week 8
 ### Class 15
   * QUIZ
@@ -62,21 +62,21 @@
   * [FOR NEXT CLASS: HW6](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%208)
 ### Class 16
   * Functions and Control Flow
-  * WATCH THIS BEFORE CLASS: (Lesson 6 part 1 and supplemental)
+  * [WATCH THIS BEFORE CLASS: (Lesson 6 part 1 and supplemental)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%206)
 ## Week 9
 ### Class 17
   * QUIZ
   * Functions and Control Flow
-  * WATCH THIS BEFORE CLASS: (Lesson 6 part 2)
+  * [WATCH THIS BEFORE CLASS: (Lesson 6 part 2)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%206)
   * [FOR NEXT CLASS: HW7](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%209)
 ### Class 18
   * MORE functions (seriously)
-  * WATCH THIS BEFORE CLASS: (Lesson 7)
+  * [WATCH THIS BEFORE CLASS: (Lesson 7)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%207)
 ## Week 10
 ### Class 19
   * QUIZ
   * File  I/O
-  * WATCH THIS BEFORE CLASS: (Lesson 8 part 1)
+  * [WATCH THIS BEFORE CLASS: (Lesson 8 part 1)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%208)
 ### Class 20
 *   More File I/O
 *   [FOR NEXT CLASS: HW8](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2010)
@@ -84,16 +84,15 @@
 ### Class 21
   * QUIZ
   * MORE functions (seriously seriously)
-  * WATCH THIS BEFORE CLASS: (Lesson 8 part 2)
+  * [WATCH THIS BEFORE CLASS: (Lesson 8 part 2)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%208)
 ### Class 22
   * Review and Refactoring
-  * WATCH THIS BEFORE CLASS: (Lesson 9)
+  * [WATCH THIS BEFORE CLASS: (Lesson 9)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%209)
   * [FOR NEXT CLASS: HW9](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2011)
 ## Week 12
 ### Class 23
   * QUIZ
   * Review and Refactoring
-  * WATCH THIS BEFORE CLASS: (Lesson 9)
 ### Class 24
   * Review Day
 ## Week 13
@@ -101,12 +100,12 @@
   * Exam 2
 ### Class 26
   * Classes
-  * WATCH THIS BEFORE CLASS: (Lesson 10)
+  * [WATCH THIS BEFORE CLASS: (Lesson 10)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%2010)
 ## Week 14
 ### Class 27
   * QUIZ
   * Classes
-  * WATCH THIS BEFORE CLASS: (Lesson 11)
+  * [WATCH THIS BEFORE CLASS: (Lesson 11)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%2011)
   * [FOR NEXT CLASS: HW10](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2014)
 ### Class 28
   * Project help and Review

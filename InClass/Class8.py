@@ -1,40 +1,41 @@
 # # STRINGS
 #
-# one_string = 'hello world'
-#
-# two_string = "hello world"
-#
-# three_string = '''hello
-#
-# world'''
-# print(three_string)
+one_string = 'hello world'
+
+two_string = "hello world"
+
+three_string = '''hello
+
+world'''
+print(three_string)
 # #--------------------------------
-# a = "line one"
+a = "line one"
+
+b = "line two"
+
+c = "line three"
+
+
+print(a + b + c)
+
+print(a,b,c)
 #
-# b = "line two"
-#
-# c = "line three"
-#
-#
-# print(a + b + c)
-#
-# print(a,b,c)
-#
-# print(a + "\n" + b + "\n" + c )
+print(a + "\n" + b + "\n" + c )
 # #--------------------------------
-# string = "Two roads diverged in a yellow wood, And sorry I could not travel both And be one traveler, long I stood And looked down one as far as I could To where it bent in the undergrowth;"
-#
-# vowel = 0
-#
-# for i in string:
-#     if i.lower() in 'aeiou':
-#         vowel += 1
-# print(vowel)
+string = "Two roads diverged in a yellow wood, And sorry I could not travel both And be one traveler, long I stood And looked down one as far as I could To where it bent in the undergrowth;"
+
+vowel = 0
+
+for i in string:
+    if i.upper() in 'AEIOU':
+        vowel += 1
+print(vowel)
 # #--------------------------------
 #
-# string[0:5]
-# string[10:30:2]
-# string[::]
+string[0:5]
+string[10:30:2]
+string[::]
+string[0:180:1]
 #--------------------------------
 JM = '''I have a wife and a dog, and we just bought a house.
 We have a new house. It was built in the 20s, but it was
