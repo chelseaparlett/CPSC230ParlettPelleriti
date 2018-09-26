@@ -24,10 +24,10 @@ print(h.strip())
 "T".isupper()
 "Hello".isupper()
 
-"I'm new in town.".replace(" ", "-")
+"I'm new in town.".replace(" ", "")
 
 
-csv = "Name,Age,Color\nChelsea,100,Blue,Tony,35,Green\nHolly, 25, Pink"
+csv = "Name,Age,Color\nChelsea,100,Blue,\nTony,35,Green\nHolly, 25, Pink"
 
 rows = csv.split("\n")
 
