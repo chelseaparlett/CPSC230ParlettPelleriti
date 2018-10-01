@@ -61,7 +61,8 @@ for i in [0,1,2]: #for each column, 0,1,2
 #CHECK Diagonally
 if TTT[0][0] == TTT[1][1] and TTT[1][1] == TTT[2][2]:
     ThreeinaRow = True
-
+if TTT[0][2] == TT[1][1] and TTT[1][1] == TTT[2][0]:
+    ThreeinaRow = True
 if ThreeinaRow:
     print("3-in-a-row")
 else:
