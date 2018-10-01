@@ -117,11 +117,15 @@ OpponentHand = np.random.choice(Cards52,5, replace = False)
 print(cards)
 check = input("WHICH CARD do you want to ask for? choices above: ")
 
+have = False
 for card in OpponentHand:
     if check in card:
-        print("They have one")
-    else:
-        print("not this one")
+        have = True
+
 #just to check...
+if not have:
+    print("GO FISH")
+else:
+    print("Have")
 print(OpponentHand)
 #---------------------------------------------
