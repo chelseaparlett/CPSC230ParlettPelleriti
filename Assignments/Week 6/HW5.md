@@ -7,4 +7,4 @@ Recall that the mean is just the arithmetic average...the sum of all the values 
 
 # MAKEOdd.py
 
-Write a function  makeOdd() that  takes in a list of numbers as an argument. Check  every item  to see if it's odd. If it's not odd, find a consistent way  to make it odd (don't overthink this). Return a list with these new ALL odd values.
+Write a program that take a list of numbers. Check  every item  to see if it's odd. If it's not odd, find a consistent way  to make it odd (don't overthink this). Print a list with these new ALL odd values.

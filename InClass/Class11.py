@@ -24,14 +24,14 @@
 #     print("\n")
 #---------------------------------------------------------------
 # #Club Penguin
-# bad_words = ["heck", "fudge","crap","darn","geez"]
+# bad_words = ["heck", "fudge","crap","darn","geez", "ass"]
 # chat = input("Type to Chat: ")
 # Chat_has_bad = False
 #
-# for word in bad_words:
-#     if word in chat:
-#         print("Oh my, please be more appropriate!")
-#         print("You cannot say " + word)
+# # for word in bad_words:
+# #     if word in chat:
+# #         print("Oh my, please be more appropriate!")
+# #         print("You cannot say " + word)
 # #Club Penguin 2
 #
 # for word in bad_words:
@@ -41,6 +41,7 @@
 #---------------------------------------------------------------
 sen = input("Give me a sentence: ")
 sen_List = sen.split(" ")
+print(sen_List)
 for word in sen_List:
     if word.lower() == "books":
         print("YOURE TALKING ABOUT BOOKS.")
