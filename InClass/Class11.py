@@ -39,9 +39,9 @@
 #         chat = chat.replace(word, "#"*len(word))
 # print("YOU: ", chat)
 #---------------------------------------------------------------
-sen = input("Give me a sentence: ")
-sen_List = sen.split(" ")
-print(sen_List)
-for word in sen_List:
-    if word.lower() == "books":
-        print("YOURE TALKING ABOUT BOOKS.")
+# sen = input("Give me a sentence: ")
+# sen_List = sen.split(" ")
+# print(sen_List)
+# for word in sen_List:
+#     if word.lower() == "books":
+#         print("YOURE TALKING ABOUT BOOKS.")
