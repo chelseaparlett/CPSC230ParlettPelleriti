@@ -3,7 +3,7 @@
 Write a script that loops  through a list of lists in the form:
 
 ```
-[["a", 7],["b", 8],["apple": "coin"]]
+[["a", 7],["b", 8],["apple", "coin"]]
 ```
 
 and turns it into a dictionary with k:v for each list in the list.
