@@ -12,7 +12,9 @@ print("accio does" , spells["accio"], "damage")
 print("\nI have these spells: ", list(spells.keys()), "\n\n")
 
 #----------------------------------------
-lists_in_dicts = {"primes": [2,3,5,7,11,13,17], "famous": ["e","pi", 0,"tau"], "perfect": [6,28, 496], "odd": [] }
+lists_in_dicts = {"primes": [2,3,5,7,11,13,17],
+ "famous": ["e","pi", 0,"tau"],
+  "perfect": [6,28, 496], "odd": [] }
 
 lists_in_dicts["odd"].append(1)
 lists_in_dicts["odd"].append(3)
@@ -42,7 +44,7 @@ hp = {
 rons_patronus = hp["ron"]["patronus"]
 
 #change luna's patronus  to a Rabbit
-hp["luna"]["patronus"] += 1
+hp["luna"]["patronus"] = "Rabbit"
 
 hp["luna"]["hair color"] = "blonde"
 
