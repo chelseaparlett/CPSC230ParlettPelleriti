@@ -10,10 +10,17 @@ hp = {
 
 # CAN I get the first item out of the dictionary?
 # Do dictionaries have indicies?
-
+hp["harry"]
 # A New Student is enrolling. How do I add them?
+hp["ginny"]= {"house": "Gryffindor", "patronus": "Horse"}
+
+name = input("Which character do you want? ")
+
+patronus = hp[name]["patronus"]
 
 # how can I loop through the keys of a dictionary?
+
+for n in hp.values():
 
 d = {}
 a = [["1",2], ["2",6]]
