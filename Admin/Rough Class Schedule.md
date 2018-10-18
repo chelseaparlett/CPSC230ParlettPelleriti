@@ -86,21 +86,20 @@
   * MORE functions (seriously seriously)
   * [WATCH THIS BEFORE CLASS: (Lesson 8 part 2)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%208)
 ### Class 22
-  * Review and Refactoring
-  * [WATCH THIS BEFORE CLASS: (Lesson 9)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%209)
-  * [FOR NEXT CLASS: HW9](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2011)
+  * Review
 ## Week 12
-### Class 23
-  * QUIZ
-  * Review and Refactoring
-### Class 24
-  * Review Day
-## Week 13
 ### Class 25
   * Exam 2
 ### Class 26
   * Classes
   * [WATCH THIS BEFORE CLASS: (Lesson 10)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%2010)
+## Week 13
+### Class 23
+  * Review and Refactoring
+### Class 24
+  * Review and Refactoring
+  * [WATCH THIS BEFORE CLASS: (Lesson 9)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%209)
+  * [FOR NEXT CLASS: HW9](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2011)
 ## Week 14
 ### Class 27
   * QUIZ
