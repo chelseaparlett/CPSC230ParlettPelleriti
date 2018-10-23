@@ -65,13 +65,12 @@
   * [WATCH THIS BEFORE CLASS: (Lesson 6 part 1 and supplemental)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%206)
 ## Week 9
 ### Class 17
-  * QUIZ
   * Functions and Control Flow
   * [WATCH THIS BEFORE CLASS: (Lesson 6 part 2)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%206)
-  * [FOR NEXT CLASS: HW7](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%209)
 ### Class 18
   * MORE functions (seriously)
   * [WATCH THIS BEFORE CLASS: (Lesson 7)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%207)
+  * [FOR NEXT CLASS: HW7](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%209)
 ## Week 10
 ### Class 19
   * QUIZ
