@@ -1,8 +1,8 @@
 #FILE I/O
-# f = open("hp.txt", 'w')
-# for i in range(0,10):
-#     f.write("hello")
-# f.close()
+f = open("hp.txt", 'a')
+for i in range(0,10):
+    f.write("hello")
+f.close()
 
 # def wordRid(word):
 #     return word.replace(",", "").replace(")","").replace("(","").replace("'","").replace("?","")
@@ -19,15 +19,26 @@
 #         return str1 + "yay"
 #     else:
 #         return str1[1:] + str1[0] + "ay"
-
-#--------------------------
-# f = open("Song.txt",'r')
-# for line in f:
-#     new_l = line.split(" ")
-#     new_line_str = []
-#     for word in new_l:
-#         x = wordtopig(word)
-#         new_line_str.append(x)
-#     k = " ".join(new_line_str)
 #
-#     print(k)
+# f = open("Song.txt",'r')
+#
+# for line in f:
+#     nL = line.split(" ")
+#     pigList = []
+#     for word in nL:
+#         pigWord = wordtopig(word)
+#         pigList.append(pigWord)
+#     newLine = " ".join(pigList)
+#     print(newLine)
+#
+# #--------------------------
+# # f = open("Song.txt",'r')
+# # for line in f:
+# #     new_l = line.split(" ")
+# #     new_line_str = []
+# #     for word in new_l:
+# #         x = wordtopig(word)
+# #         new_line_str.append(x)
+# #     k = " ".join(new_line_str)
+# #
+# #     print(k)
