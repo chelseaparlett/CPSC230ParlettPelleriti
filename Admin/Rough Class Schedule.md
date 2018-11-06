@@ -87,15 +87,15 @@
 ### Class 22
   * Review
 ## Week 12
-### Class 25
+### Class 23
   * Exam 2
-### Class 26
+### Class 24
   * Classes
   * [WATCH THIS BEFORE CLASS: (Lesson 10)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%2010)
 ## Week 13
-### Class 23
+### Class 25
   * Review and Refactoring
-### Class 24
+### Class 26
   * Review and Refactoring
   * [WATCH THIS BEFORE CLASS: (Lesson 9)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%209)
   * [FOR NEXT CLASS: HW9](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2011)
