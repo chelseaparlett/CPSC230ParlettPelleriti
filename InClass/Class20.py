@@ -5,6 +5,7 @@ reader = csv.DictReader(open("heroes_information.csv", 'r'))
 
 # for row in reader:
 #     print(list(row.keys()))
+#     print(dict(row))
 #     break
 #--------------------------------
 # i = 0
@@ -17,9 +18,10 @@ reader = csv.DictReader(open("heroes_information.csv", 'r'))
 # pub = {}
 # for row in reader:
 #     if row["Publisher"] in pub:
-#         row["Publisher"] += 1
+#         pub[row["Publisher"]] += 1
 #     else:
-#         row["Publisher"] = 1
+#         pub[row["Publisher"]] = 1
+# print(pub)
 #--------------------------------
 def blueChecker(dictionary):
     if dictionary["Skin color"].lower() == "blue":
