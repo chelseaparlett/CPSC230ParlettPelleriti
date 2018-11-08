@@ -52,6 +52,7 @@ fileAlpha("g.txt")
 <p> Then ask for their guess of the clue. If they get it right, end the game and print out a congratulatory message. If they don't get it right. Ask them for a new letter and repeat the above process. But remember, you have to show ALL the letters they guessed so far. So if on their second turn they guess 'b', you wouldn't just show "b******" you'd show "be***e*". (HINT: since you're doing this part over and over again...perhaps you need to write ANOTHER function to use here....)<p/>.
 
 <p> End the game once they've correctly guessed the phrase. If you want more file practice, try using a file to store the correct answer and importing it!  </p>
+
 ```
 #YOUR CODE HERE
 def wofTurn(lettersGuessed, answer, dict):
@@ -89,6 +90,4 @@ def wheelOfFortune(clue = "Where do you want to be right now?",
     print("CONGRATS!", pdict["money"])
 import random
 wheelOfFortune()
-
-
 ```
