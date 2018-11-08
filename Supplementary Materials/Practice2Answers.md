@@ -54,13 +54,18 @@ fileAlpha("g.txt")
 <p> End the game once they've correctly guessed the phrase. If you want more file practice, try using a file to store the correct answer and importing it!  </p>
 ```
 #YOUR CODE HERE
-def wofTurn(lettersGuessed, answer):
+def wofTurn(lettersGuessed, answer, dict):
     a = answer
+    randdollar = random.randint(1,100)
+    print("You're getting $" + str(randdollar) +" per letter")
     print("\n")
     let = input("What letter would you like to select?")
     while let in lettersGuessed:
         let = input("NO. What letter would you like to select? ")
     lettersGuessed.append(let)
+    monies = answer.count(let)
+    mon = monies * randdollar
+    dict["money"] += mon
     for char in a:
         if char not in lettersGuessed:
             a = a.replace(char,"*")
@@ -79,9 +84,11 @@ def wheelOfFortune(clue = "Where do you want to be right now?",
  displayed = ""
  print(clue)
  while displayed != answer:
-     displayed = wofTurn(letguess,answer)
+     displayed = wofTurn(letguess,answer, pdict)
  else:
-    print("CONGRATS!")
+    print("CONGRATS!", pdict["money"])
+import random
 wheelOfFortune()
+
 
 ```
