@@ -94,8 +94,9 @@
   * [WATCH THIS BEFORE CLASS: (Lesson 10)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%2010)
 ## Week 13
 ### Class 25
-  * Review and Refactoring
+  * Review and Refactoring (List Comprehension)
 ### Class 26
+  * QUIZ
   * Review and Refactoring
   * [WATCH THIS BEFORE CLASS: (Lesson 9)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%209)
   * [FOR NEXT CLASS: HW9](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2011)
@@ -106,4 +107,4 @@
   * [WATCH THIS BEFORE CLASS: (Lesson 11)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%2011)
   * [FOR NEXT CLASS: HW10](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2014)
 ### Class 28
-  * Project help and Review
+  * Project Help and Review
