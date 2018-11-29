@@ -1,6 +1,28 @@
-# Refactor Sieve
-Use list comprehensions, functions, and other cool methods to refactor our Sieve of Eratosthenes method of finding prime numbers between 2 and n.
+# refactor
+```
+a = {"a": {"age": 10, "hair": "black", "eyes": "blue"},
+  "b": {"age": 14, "hair": "black", "eyes": "green"},
+  "c": {"age": 12, "hair": "blonde", "eyes": "brown"},
+  "d": {"age": 15, "hair": "red", "eyes": "hazel"},
+  "e": {"age": 18, "hair": "brown", "eyes": "brown"},
+  "f": {"age": 12, "hair": "brown", "eyes": "blue"}
+}
 
+n = input("which person do you want? a,b,c,d,e, or f: ")
+
+if n == "a":
+  person = a["a"]
+if n == "b":
+  person = a["b"]
+if n == "c":
+  person = a["c"]
+if n == "d":
+  person = a["d"]
+if n == "e":
+  person = a["e"]
+if n == "f":
+  person = a["f"]
+```
 # Refactor Factorials
 Use list comprehensions, functions, and other cool methods to refactor this code:
 

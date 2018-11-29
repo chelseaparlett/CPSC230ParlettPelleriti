@@ -14,5 +14,5 @@ for i in linil:
         new.append(j)
 newnew = []
 for n in new:
-    if n not in newnew:
+    if n%2 == 0:
         newnew.append(n)
