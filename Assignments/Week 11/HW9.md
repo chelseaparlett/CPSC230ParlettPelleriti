@@ -1,4 +1,4 @@
-# refactor
+# refactor Proj
 ```
 a = {"a": {"age": 10, "hair": "black", "eyes": "blue"},
   "b": {"age": 14, "hair": "black", "eyes": "green"},
@@ -28,10 +28,12 @@ Use list comprehensions, functions, and other cool methods to refactor this code
 
 ```
 listofnums = []
+k = 10
 for n in range(1,k+1)
     i = 1
     for f in range(2, n+1):
         i = i * f
+    listofnums.append(i)
  ```
 # Refactor Pig
 Using list comprehensions, functions, and some of the suggestions I made in lecture to refactor *your* version of Pig.
