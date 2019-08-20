@@ -3,7 +3,7 @@
 ### Class 1
 * Intro to CS and Python
 ### Class 2
-* Getting Acquainted with Python, Jupyter Notebooks, and IDLE
+* Getting Acquainted with Python, Jupyter Notebooks, and ATOM
 * [WATCH THIS BEFORE CLASS: (Lesson 1 Pt. 1)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%201)
 * [FOR NEXT CLASS: HW0](https://blackboard.chapman.edu/webapps/assignment/uploadAssignment?content_id=_879209_1&course_id=_44729_1&group_id=&mode=cpview)
 * [CLASSWORK](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/blob/master/Classwork/Class%202.md)
