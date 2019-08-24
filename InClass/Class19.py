@@ -1,4 +1,59 @@
 #FILE I/O
+
+#INTRODUCE TRY/EXCEPT---------------
+#Try and Except---------------------------------
+# Chapter 6.6
+#
+# print("NO ERROR HANDLING-------------------------")
+# fn = int(input("what's your favorite number? "))
+#
+# #what could go wrong?
+# #
+# print("WHILE LOOP--------------------------------")
+fn = input("what's your favorite number? ")
+while not fn.isnumeric():
+    fn = input("what's your favorite number? ")
+fn = int(fn)
+#
+# # #how have we fixed it in the past?
+# #
+# #try/Except
+# print("TRY EXCEPT #1--------------------------------")
+# try:
+#     fn = int(input("what's your favorite number? "))
+# except:
+#     print("That's not a number, I'll pretend you said 7.")
+#     fn = 7
+#
+# # #or
+# print("TRY EXCEPT #2--------------------------------")
+# while True:
+#     try:
+#         fn = int(input("what's your favorite number? "))
+#         break
+#     except:
+#         print("That's not a number")
+
+#
+# print("\n\nFILE ISSUES-----------------------------------")
+#reader = open("Chelsea.txt", "r")
+# #what can go wrong?
+#
+# try:
+#     filename = input("filename: ")
+#     reader = open(filename, "r")
+# except:
+#     print("YOU MESSED UP. GO CHECK YOUR FILE LOCATION.")
+
+# while True:
+#     try:
+#         filename = input("filename: ")
+#         reader = open(filename, "r")
+#         break
+#     except:
+#         print("YOU MESSED UP. GO CHECK YOUR FILE LOCATION.")
+#-------------------------------
+
 f = open("hp.txt", 'a')
 for i in range(0,10):
     f.write("hello")
