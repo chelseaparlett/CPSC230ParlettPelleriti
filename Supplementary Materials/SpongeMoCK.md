@@ -1,1 +1,0 @@
-1. Write a function called SpOnGeMoCk() that takes in a string, sarcasm, as an argument and returns that string in "SpongeMock" (with every other letter capitalized). For example "Chelsea" should come out "ChElSeA". Use list comprehension to do the capitalization. Make sure to account for the fact that the word may already have capital letters.
