@@ -30,11 +30,11 @@
   * [FOR NEXT CLASS: HW2](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%203)
 
 ### Class 7
+  * QUIZ
   * For Loops
 
 ## Week 5
 ### Class 8
-  * QUIZ
   * Problem Solving with Python
   * [WATCH THIS BEFORE CLASS: (Lesson 3 parts 1 and 2)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%203)
 
@@ -77,6 +77,7 @@
   * [WATCH THIS BEFORE CLASS: (Lesson 6 part 1 and supplemental)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%206)
 
 ### Class 17
+  * QUIZ
   * Functions and Control Flow
   * [WATCH THIS BEFORE CLASS: (Lesson 6 part 2)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%206)
 
@@ -118,7 +119,6 @@
 
 ## Week 14
 ### Class 26
-  * QUIZ
   * Review and Refactoring
   * [WATCH THIS BEFORE CLASS: (Lesson 9)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%209)
   * [FOR NEXT CLASS: HW9](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2011)
