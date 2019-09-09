@@ -9,7 +9,7 @@
   * 61
   * 62
 
-3. Create a script that calculates the amount of money in your bank account after t (an integer) number of years, if the interest rate is i (a float).
+3. Create a script that calculates the amount of money in your bank account after t (an integer) number of years, if the interest rate is i (a float). Calculate [compound interest](https://www.investopedia.com/terms/c/compoundinterest.asp).
 ```
 t = ??
 i = ??
