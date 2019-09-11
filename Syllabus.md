@@ -58,7 +58,7 @@ There will be occasional quizzes on the reading and lecture material, which will
 There will also be  two in-class exams and take home projects and a final exam and take home project, which must be taken on the dates specified. I don't believe taking tests while sick demonstrates your true ability, so in the case of a well-documented, unavoidable conflict or illness, I will do my best to accommodate you. You must notify me prior to missing the exam.
 
 ## Course Grade:
-### Attendance/Participation/Discussion
+### Attendance/Participation/QUIZZES
 15%
 ### Programming Assignments
 40%
