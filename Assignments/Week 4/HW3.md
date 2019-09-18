@@ -32,6 +32,3 @@ import random
 
 roll = random.randint(1,6)
 ```
-
-## COUNTER.py
-Write a Python function that takes a list of words and returns the length of the longest one.
