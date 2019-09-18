@@ -6,6 +6,6 @@
 
 3. Use the code from  the last classwork to ask  the user  for a number between 3 and 100, store the input  in the variable k.
 
-print all the prime numbers between 2 and k (including 2 and  k). Use *continue* to immediately move on to  the next number if you find a divisor that is not 1 or  itself.
+print all the prime numbers between 2 and k (including 2 and  k). Use *break* to immediately move on to  the next number if you find a divisor that is not 1 or  itself.
 
 HINT: you only need to check if a number is divisible numbers LESS than it.
