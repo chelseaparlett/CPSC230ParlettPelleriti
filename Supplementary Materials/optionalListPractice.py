@@ -1,4 +1,4 @@
-# Write some code that finds all the numbers divisible by
+# Write some code that finds all the numbers between 1 and 700 that are divisible by
 # 8 and 14 and stores them in a list.
 #---YOUR CODE HERE---------------------------------------
 
