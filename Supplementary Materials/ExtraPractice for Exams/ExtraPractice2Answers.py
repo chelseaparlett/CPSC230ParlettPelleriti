@@ -97,14 +97,21 @@ else:
 #---------------------------------------------
 #GO FISH (1 round)
 #Use this list of CARDS
-import numpy as np
 cards = ["A","K","Q","J","10","9","8",
 "7","6","5","4","3","2"]
 suits = ["H","S","C","D"]
 Cards52 = [(card + suit) for card in cards for suit in suits]
 #Use these two hands I created. OpponentHand is a list of cards.
 #Try printing it!
-OpponentHand = np.random.choice(Cards52,5, replace = False)
+# import numpy as np
+# OpponentHand = np.random.choice(Cards52,5, replace = False)
+#OR
+import random
+OpponentHand = []
+for i in range(0,5):
+    x = random.choice(Cards52)
+    OpponentHand.append(x)
+    Cards52.remove(x)
 
 #Ask the User which card (["A","K","Q","J","10","9","8",
 #"7","6","5","4","3","2"]) they want to ask the opponent for.
