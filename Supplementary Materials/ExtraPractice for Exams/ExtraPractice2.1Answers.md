@@ -16,11 +16,11 @@ print(d20({"dexterity": 0, "stealth": 0, "wisdom": 0, "strength": 0, "intelligen
 #YOUR CODE HERE
 def insultGenerator(l1=["bad","dumb","ugly","filthy"],l2=["hippo","giraffe","hobo"],name="Chelsea"):
     import random
-    indicies = [i for i in range(0, len(l1))]
+    indicies = range(0,len(l1))
     adjInd1 = random.choice(indicies)
     indicies.remove(adjInd1)
     adjInd2 = random.choice(indicies)
-    noun = random.choice([i for i in range(0,len(l2))])
+    noun = random.choice(range(0,len(l2))
 
     print("You're a",l1[adjInd1], "and", l1[adjInd2], l2[noun], ",", name, ".")
 

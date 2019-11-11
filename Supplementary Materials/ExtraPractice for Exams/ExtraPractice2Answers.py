@@ -5,7 +5,10 @@
 # Print "YAHTZEEEEEEEE!"
 #---------YOUR CODE HERE----------------------
 import random
-rolls = [random.randint(1,6) for i in range(0,5)]#list comprehension
+#rolls = [random.randint(1,6) for i in range(0,5)]#list comprehension
+rolls = []
+for i in range(0,5):
+    rolls.append(random.randint(1,6))
 #you can also use the commented code to do this...
 #rolls = [random.randint(1,6),random.randint(1,6),random.randint(1,6),
 #random.randint(1,6),random.randint(1,6),random.randint(1,6)]
@@ -75,19 +78,19 @@ else:
 #if their number is in the list, tell them "YAY", otherwise
 #print "NOOOOO"
 #---------YOUR CODE HERE----------------------
-numList = [random.randint(1,1000) for i in range(0,10)]
+#numList = [random.randint(1,1000) for i in range(0,10)]
 #or
-# numList = [random.randint(1,1000),
-# random.randint(1,1000),
-# random.randint(1,1000),
-# random.randint(1,1000),
-# random.randint(1,1000),
-# random.randint(1,1000),
-# random.randint(1,1000),
-# random.randint(1,1000),
-# random.randint(1,1000),
-# random.randint(1,1000)
-# ]
+numList = [random.randint(1,1000),
+random.randint(1,1000),
+random.randint(1,1000),
+random.randint(1,1000),
+random.randint(1,1000),
+random.randint(1,1000),
+random.randint(1,1000),
+random.randint(1,1000),
+random.randint(1,1000),
+random.randint(1,1000)
+]
 guess = int(input("Guess a Number between 1-1000: "))
 
 if guess in numList:
@@ -100,7 +103,12 @@ else:
 cards = ["A","K","Q","J","10","9","8",
 "7","6","5","4","3","2"]
 suits = ["H","S","C","D"]
-Cards52 = [(card + suit) for card in cards for suit in suits]
+#Cards52 = [(card + suit) for card in cards for suit in suits]
+#OR
+Cards52 = []
+for suit in suits:
+    for card in cards:
+        Cards52.append(card + suit)
 #Use these two hands I created. OpponentHand is a list of cards.
 #Try printing it!
 # import numpy as np
