@@ -8,7 +8,7 @@ def d20(charStats):
     for i in s:
         charStats[i] = random.randint(1,20)
     return charStats
-print(d20({"dextarity": 0, "stealth": 0, "wisdom": 0, "strength": 0, "intelligence": 0}))
+print(d20({"dexterity": 0, "stealth": 0, "wisdom": 0, "strength": 0, "intelligence": 0}))
 
 ```
 2. Write a function called insultGenerator() that takes 3 arguments: a list of adjectives, a list of nouns, and a name (like "Chelsea"). Randomly select two adjectives, and a noun, and generate a sentence that insults the user by name (use the function argument, NOT input() to get the name). Then return that sentence. Insults should be strings like "You are an utterly ugly and stupid pine tree!". Set Default arguments for all arguments. Practice calling your function with defaults.
