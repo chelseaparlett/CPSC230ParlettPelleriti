@@ -7,7 +7,26 @@
 # them with asterisks (one asterisk per letter in the replaced word). Write this
 # new message to the file "CP.txt".
 # YOUR CODE HERE -------------------------------------------------------------
+def clubPenguin(name, message = "hi.txt"):
+    message = open(message,"r")
+    whole_message = ""
+    for line in message:
+        whole_message += name
+        whole_message += ": "
+        whole_message += line
+    print(whole_message)
+    words = ["gosh", "darn", "shoot"]
+    message.close()
 
+    for word in words:
+        if word in whole_message.lower():
+            whole_message = whole_message.replace(word, ('*'*len(word)))
+
+    w = open("CP.txt","w")
+    w.write(whole_message)
+    w.close()
+
+clubPenguin("Chelsea", "hi.txt")
 
 #/YOUR CODE HERE -------------------------------------------------------------
 
@@ -17,5 +36,10 @@
 # Rolled.
 # YOUR CODE HERE -------------------------------------------------------------
 
-
+def RickRoll(fn):
+    f = open(fn, "a")
+    f.write("Never gonna give you up\nNever gonna let you down")
+    f.close()
+    return("You've be Rick Rolled!")
+RickRoll("hi.txt")
 #/YOUR CODE HERE -------------------------------------------------------------
