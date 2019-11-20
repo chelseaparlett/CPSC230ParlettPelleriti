@@ -129,26 +129,24 @@
 
 ## Week 13
 ### Class 24
-  * Classes
-  * [WATCH THIS BEFORE CLASS: (Lesson 10)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%2010)
-  * Book Chapter 11-12
-
-### Class 25
   * Review and Refactoring (List Comprehension)
   * Book Chapter 7
+
+### Class 25
+  * Classes
+  * [WATCH THIS BEFORE CLASS: (Lesson 10)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%2010)
+  * [FOR NEXT CLASS: HW9](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2011)
+  * Book Chapter 11-12
 
 ## Week 14
 ### Class 26
   * Review and Refactoring
   * [WATCH THIS BEFORE CLASS: (Lesson 9)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%209)
-  * [FOR NEXT CLASS: HW9](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2011)
+  * [FOR NEXT CLASS: HW10](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2014)
+
 
 ### Class 27
   * QUIZ
-  * Classes
+  * REVIEW
   * [WATCH THIS BEFORE CLASS: (Lesson 11)](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Lectures/Lesson%2011)
-  * [FOR NEXT CLASS: HW10](https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti/tree/master/Assignments/Week%2014)
   * Book Chapter 11-12
-  
-### Class 28????
-  * Project Help and Review
