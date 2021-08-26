@@ -1,15 +1,16 @@
 # CPSC 230 --  Computer Science I
-# Fall '19
+# Fall '21
 # Syllabus
 
-## Instructor: Prof. Chelsea Parlett-Pelleriti (cparlett@chapman.edu)
-## Lecture: MW 1pm-2:15pm
-## Office Hours: TBD, near Keck 130, and by appointment (in person or Skype)
+## Instructor: Dr. Chelsea Parlett-Pelleriti (cparlett@chapman.edu)
+## Lecture: TTh 4pm-5:15pm
+## Office Hours: TBD
 ## TLT Office Hours
 * [Here](https://www.chapman.edu/students/academic-resources/tutoring-center/_files/tutoring-schedules/cpsc-230.pdf)
+
 ## INSTALLS
 
-* [Install Python](https://www.anaconda.com/download/#macos)
+* [Install Python](https://www.anaconda.com/download/)
 * [Install Atom](https://atom.io/)
 
 ## Course Description
@@ -29,6 +30,7 @@ The Chapman experience creates outcomes which are consistent with our identity. 
 ## General Education Learning Outcomes
 Students create sophisticated arguments supported by quantitative evidence and can clearly communicate those arguments in a variety of formats (using words, tables, graphs, mathematical equations, etc., as appropriate).
 
+
 ## Overview
 CPSC 230 is an introductory course designed to introduce students to the field of computer science in general and computer programming in particular.  After a brief coverage of fundamental computer architecture, students will learn the foundations of software development. Topics include basic program organization, data types, conditionals, repetition, functions, and file I/O.  Applications within the course will span from numerical to biology to more creative aspects.
 
@@ -40,34 +42,63 @@ MATH 104 or permission of instructor.
 CPSC 230 is a 3 unit course.
 
 ## Required Text:
-The Practice of Computing Using Python, Author: Punch & Enbody,
-Publisher: Pearson, Edition: 3rd (March 10, 2016)
+How to Get Your Textbook:
+
+1. Sign in or create an account at learn.zybooks.com
+2. Enter zyBook code: CHAPMANCPSC230Fall2021
+3. Subscribe
 
 ##  Course materials:
-All course materials will be made available via Blackboard and/or Github
+All course materials will be made available via Canvas and/or Github.
+
+## Course Communication:
+Information for the course will mainly be disseminated through our Course Slack. YOU MUST join the course slack channel and check for updates. Email through Canvas may also be used. Materials will also be available through the course GitHub (https://github.com/cmparlettpelleriti/CPSC230ParlettPelleriti).
 
 ## Homework, Exams, and Grading (subject to change):
-Homework will consist of programming assignments to reinforce material covered in class, and must be submitted electronically. They will typically be due at the beginning of class (assignments not due on a class day will be due by 11:59pm), and may be demonstrated to the instructor during the class session.
+Homework will consist of programming assignments to reinforce material covered in class, and must be submitted electronically. Assignments are due by 11:59pm, unless otherwise specified. This includes instances of not hitting submit or submitting incorrect files. You are responsible for ensuring the correct files are submitted by the deadline. The timestamp on a file that missed a deadline is not valid.
 
-Stuff happens. So, you have 3 "extra days" that you can use, no questions asked, throughout the semester for any homework or project (NOT Quizzes and Tests). You must use 1 whole extra day at a time (i.e. you cannot use 3 hours of an extra day for one assignment, and 21 on another). To qualify for an extra day, you must let me know by the END of the day the assignment is due. Because of these 3 "extra days", late homework will NOT be accepted.
+
+Stuff happens. So, you have 3 "extra days" that you can use, no questions asked, throughout the semester for any homework or project (NOT Quizzes and Tests). You must use 1 whole extra day at a time (i.e. you cannot use 3 hours of an extra day for one assignment, and 21 on another). To qualify for an extra day, you must let me know BEFORE the assignment is due, and fill out the Late Days Google Form. Because of these 3 "extra days", late work will automatically be penalized a 1.5% per hour (or part of an hour) late. Because of grading deadlines, extra days CANNOT be used during finals week.
 
 All programs must be written in Python unless otherwise specified. Grading will be based on correctness, elegance of solution, and style (comments, naming conventions, etc.)
 
-There will be occasional quizzes on the reading and lecture material, which will count toward the participation grade. Missed quizzes may NOT be made up. However, I will drop your lowest 2 quiz scores at the end of the semester, so use these 2 dropped quizzes to account for sick days or missed classes.
+There will be weekly quizzes on the reading and lecture material. Missed quizzes may NOT be made up. However, I will drop your lowest 2 quiz scores at the end of the semester, so use these 2 dropped quizzes to account for sick days or missed classes.
 
 There will also be  two in-class exams and take home projects and a final exam and take home project, which must be taken on the dates specified. I don't believe taking tests while sick demonstrates your true ability, so in the case of a well-documented, unavoidable conflict or illness, I will do my best to accommodate you. You must notify me prior to missing the exam.
 
 ## Course Grade:
-### Attendance/Participation/QUIZZES
-15%
-### Programming Assignments
-40%
-### Exam 1
-14%
-### Exam 2
-15%
-### Final
-16%
+### Attendance/ Participation (Participation Activities*, in-class activities, quizzes)
+15 %
+### Challenge Activities*:
+5%
+### Programming Assignments:
+40 %
+### Exam 1:
+15 %
+### Exam 2:
+15 %
+### Final: 
+25 %
+
+* Completed Through Zybooks
+
+## Assignment Grading
+All assignment will be graded by myself. Any questions concerning late submission or assignment grade inquiries should be directed to me via email/Slack. By all means approach me before or after class to ask questions but, I will request a follow-up email to make sure I don’t overlook any action items. 
+
+## Course Grade Breakdown
+Letter grades in the class will be assigned according to the following breakdown:
+
+
+| Grade                   | Letter Grade |
+|-------------------------|--------------|
+| >93                     | A            |
+| 90-92.9                 | A-           |
+| 87-89.9                 | B +          |
+| 83-86.9                 | B            |
+| 80-82.9                 | B-           |
+| 77-79.9/73-76.9/70-72.9 | C+/C/C-      |
+| 67-69.9/63-66.9/60-62.9 | D+/D/D-      |
+| <60                     | F            |
 
 ## Collaboration Policy:
 You have much to learn from your classmates, and so I encourage you to discuss and study course material together. However, all work you submit for this course must be your own, and must be completed individually unless otherwise specified. More specifically, you may not present source code or programs copied from the Internet, other texts, other students, etc as your own work. Of course, you are free to use whatever reference materials you like, but please cite them in a README turned in with your assignments. I assume you are familiar with Chapman’s policy on academic misconduct is presented below and any incidents of academic misconduct or dishonesty will be dealt with severely in accordance with this policy.
@@ -93,3 +124,12 @@ Religious Accommodation at Chapman University Consistent with our commitment of 
 
 ## Changes
 This syllabus is subject to change. Updates will be posted on the course website.
+
+## Fowler School of Engineering
+### Fall 2021-- Addendum to Course Syllabi
+Due to the continuing COVID-19 Pandemic, the following items are in effect for courses offered by the Fowler School of Engineering, in addition to the policies and procedures detailed in individual course syllabi.
+
+## Video Recording of Courses
+Software *may* be used to record live class discussions as needed to support course learning objectives. As a student in these courses, your participation in live class discussions will be recorded to assist those who cannot attend the live session, or to serve as a resource for those who would like to review content that was presented.  These recordings will be made available only to students who are enrolled in the class, and only during the period in which the course is offered.  All recordings will become unavailable to students in the class shortly after the course ends.  Students who prefer to participate via audio only will be allowed to disable their video camera so only audio will be captured. Please discuss this option with your instructor.
+
+The COVID-19 pandemic requires all of us to accept the possibility that changes in how this course is taught may be required and that some changes may occur with little or no notice. For example, some or all of the in-person aspects of a course may be shifted to remote instruction. If this occurs, you will be given clear instructions as to how to proceed. The uncertainty of the situation is not ideal for any of us.  We must all try to approach this situation with good-will, flexibility, and mutual understanding.
