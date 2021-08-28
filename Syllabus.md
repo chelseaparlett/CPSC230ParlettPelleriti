@@ -10,7 +10,7 @@
 
 ## INSTALLS
 
-* [Install Python](https://www.anaconda.com/download/)
+* [Install Python](https://www.python.org/downloads/)
 * [Install Atom](https://atom.io/)
 
 ## Course Description
@@ -77,13 +77,13 @@ There will also be  two in-class exams and take home projects and a final exam a
 15 %
 ### Exam 2:
 15 %
-### Final: 
+### Final:
 25 %
 
 * Completed Through Zybooks
 
 ## Assignment Grading
-All assignment will be graded by myself. Any questions concerning late submission or assignment grade inquiries should be directed to me via email/Slack. By all means approach me before or after class to ask questions but, I will request a follow-up email to make sure I don’t overlook any action items. 
+All assignment will be graded by myself. Any questions concerning late submission or assignment grade inquiries should be directed to me via email/Slack. By all means approach me before or after class to ask questions but, I will request a follow-up email to make sure I don’t overlook any action items.
 
 ## Course Grade Breakdown
 Letter grades in the class will be assigned according to the following breakdown:
