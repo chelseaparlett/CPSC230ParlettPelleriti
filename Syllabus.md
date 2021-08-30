@@ -74,13 +74,13 @@ There will also be  two in-class exams and take home projects and a final exam a
 ### Programming Assignments:
 40 %
 ### Exam 1:
-15 %
+10 %
 ### Exam 2:
-15 %
+10 %
 ### Final:
-25 %
+20 %
 
-* Completed Through Zybooks
+\* Completed Through Zybooks
 
 ## Assignment Grading
 All assignment will be graded by myself. Any questions concerning late submission or assignment grade inquiries should be directed to me via email/Slack. By all means approach me before or after class to ask questions but, I will request a follow-up email to make sure I don’t overlook any action items.
