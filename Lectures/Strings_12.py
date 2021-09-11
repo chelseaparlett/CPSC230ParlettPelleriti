@@ -1,3 +1,16 @@
+# comparison
+
+"hello" == "hello" # we've already been doing
+"help" == "hello" # we've already been doing
+
+"apple" > "applet"
+
+"Mac" < "Mary"
+
+"apple" < "burrito"
+
+"a" > "A"
+
 # methods
 
 "hello".upper()
