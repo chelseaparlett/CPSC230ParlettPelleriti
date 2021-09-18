@@ -1,8 +1,6 @@
 # function syntax
-
 def name_printer(name):
     print("Hello " + name)
-
 
 def squared(n):
     return(n*n)
@@ -11,14 +9,16 @@ def squared(n):
 def name_printer(name):
     print("Hello " + name)
 
+name_printer("Chelsea")
 
 # more functions
 def name_printer2(name):
     names = name.split()
-    print(names[1] + ", " + names[0]) # print last, first
+    print(names[1] + ", " + names[0])
+
+name_printer2("Chelsea Parlett")
 
 # name spaces
-
 x = 5
 
 def addOne(n):
@@ -43,12 +43,14 @@ x = addOne(x)
 print("X is", x)
 
 # more functions
-
 def greaterThan10(n):
     if n > 10:
         return(True)
     else:
         return(False)
+
+gt = greaterThan10(16)
+print(gt)
 
 # Adventurer
 '''
@@ -56,6 +58,7 @@ Make a function adventure_mess() that takes a string message to your player and 
 
 Adventurer: <message>
 '''
-
 def adventure_mess(message):
     print("Adventurer: " + message)
+
+adventure_mess("I'm so excited to go on an adventure.")
