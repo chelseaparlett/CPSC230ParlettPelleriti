@@ -2,17 +2,17 @@
 
 # methods
 
+
+
 # upper and lower
 
 # isalpha, isdigit, isupper, islower
-
 
 
 ## instead try....
 
 
 # shout
-
 
 
 # replace
@@ -25,9 +25,7 @@ My hump my hump my hump my hump my hump
 My hump my hump my hump my lovely little lumps
 '''
 
-
 # startswith
-
 
 # strip
 
