@@ -22,67 +22,42 @@ print([1,5,2,2,2,2] < [1,6])
 
 l = ["apple", "orange", "cherry", "apple", "apple"]
 
-print(l.count("apple"))
-print(l)
-
-print(l.index("apple"))
-print(l)
 
 # modifying list methods
 
 ## append
-l.append("cherimoya")
-print(l)
+
 
 ## pop
-popped_element = l.pop(0)
-print(popped_element)
-print(l)
+
 
 ## insert
-l.insert(0,"apple")
-print(l)
+
 
 ## remove
-l.remove("orange")
-print(l)
 
-l.remove("apple")
-print(l)
 
 ## sort
 
-m = [4,3,2,6,7,8]
-m.sort()
-print(m)
 
 
 # functions (NOT METHODS)
 
 ## len
-print(len(m))
+
 
 ## min, max
-print(min(m))
-print(max(m))
+
 
 ## sum
-print(sum(m))
+
 
 ## sorted
-m = [4,3,2,6,7,8]
-print(sorted(m))
-print(m)
 
-m = sorted(m)
 
 
 # split and join
-our_words = "It is a truth universally acknowledged".split(" ")
-print(our_words)
 
-our_variable = "_".join(our_words)
-print(our_variable)
 
 ## split/join, string methods but like, with lists
 
@@ -103,14 +78,3 @@ some_words = ["honesty",
 "portabello",
 "balcony"
 ]
-
-i = random.randint(0,len(some_words)-1)
-
-letter_list = list(some_words[i])
-print(letter_list)
-
-random.shuffle(letter_list)
-print(letter_list)
-
-word = "".join(letter_list)
-print(word)
