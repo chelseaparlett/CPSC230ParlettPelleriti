@@ -32,11 +32,12 @@ is bad. Make sure each password:
 
 # exclamation point
 
+### EXAMPLE CODE ###
 "!" in "Hello!" # this is True
 "!" in "Hello" # this is False
 
 # spaces
-
+### EXAMPLE CODE ###
 " " in "This is Boring." # this is True
 " " in "ThisIsBoring." # this is False
 
@@ -70,9 +71,31 @@ not finish this iteration of the loop.
 
 Otherwise, add the letter they've inputted to a string, my_string, that stores
 all the characters they've input so far (remember the + operator for strings).
-If they enter an empty string "", stop the loop.
+If they enter an empty string "", stop the loop. Print out my_string at the end.
 '''
 
 my_string = "" # to keep track of inputs
 
 inputs = input("Enter one Letter") # current input
+
+
+'''
+7. Use a while loop and indexing to loop through the characters in a string and
+count the number of e's, t's, n's, o's, r's, i's, a's, and s's. Keep each count
+in it's own variable. Make sure to count both capital and lower cases as the
+same letter (e.g. "a" and "A" both count as an a.)
+'''
+
+the_string = '''Brave Sir Robin ran away. Bravely ran away away. When danger
+reared it's ugly head, he bravely turned his tail and fled. Brave Sir Robin
+turned about and gallantly he chickened out'''
+
+
+
+'''
+8. Ask the user to input two words of the SAME LENGTH. Using a WHILE loop, count
+how many letters are the same between the two strings. For example in spam and
+span, 3 of the letters (s,p,a) are the same. In the words bitter and better,
+5 of the letters are the same. Print out a message telling the user how many
+letters are the same.
+'''
