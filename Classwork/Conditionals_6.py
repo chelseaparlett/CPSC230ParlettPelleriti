@@ -82,3 +82,35 @@ if x%2 == 0 and x%3 == 0:
     print("yes")
 else:
     print("no")
+
+
+'''
+6. Pretend you run a movie theatre. Using if/elif/else statements as needed, write some
+code that asks the user to input their age. If customers are under 11, ask if
+they have an adult with them (yes/no), if they do, then ask them how many tickets
+they want. Tickets are $11.50 each (they get a student discount on all tickets).
+Print out their total cost. If they do not have an adult with them, print out a
+message saying they cannot buy any tickets. If the customer is older than 11,
+ask them how many tickets they want, and print out the price (Adults pay
+$13 per ticket).
+
+HINT: before you write out code, diagram this problem or write out the steps first.
+'''
+
+'''
+7. Ask the user to input 3 integers which represent the lengths of the sides of
+a triangle. Write some code to check if the triangle is equilateral (all sides
+the same length), isosceles (two sides are equal), or obtuse (no sides are equal).
+
+Print out the result for the user to see.
+'''
+
+'''
+8. Use if/elif/else to check whether a variable, x, is negative, zero, or positive.
+'''
+
+'''
+9. Use if/elif/else statements to ask the user to input their grade as a percentage
+(0-100%), and print out whether they have an A, B, C, D or F. (Use 90,80,70,60,
+and < 60 as your grade cutoffs.)
+'''
