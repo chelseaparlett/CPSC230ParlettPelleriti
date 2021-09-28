@@ -89,13 +89,3 @@ same letter (e.g. "a" and "A" both count as an a.)
 the_string = '''Brave Sir Robin ran away. Bravely ran away away. When danger
 reared it's ugly head, he bravely turned his tail and fled. Brave Sir Robin
 turned about and gallantly he chickened out'''
-
-
-
-'''
-8. Ask the user to input two words of the SAME LENGTH. Using a WHILE loop, count
-how many letters are the same between the two strings. For example in spam and
-span, 3 of the letters (s,p,a) are the same. In the words bitter and better,
-5 of the letters are the same. Print out a message telling the user how many
-letters are the same.
-'''

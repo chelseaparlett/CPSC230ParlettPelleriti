@@ -6,7 +6,7 @@
 # 1. Creating Strings
 # 2. String Operations
 # 3. In
-
+"aeu" in "aeiou"
 # Classwork-----------------------------------------------
 '''
 1. Grab and print the name "Chelsea" from the following strings using string
@@ -70,9 +70,15 @@ For example if they give you the words "hello", "filth", "canning", "grown"
 your string should be "lolhnion"
 '''
 
+
 '''
-7. Do the while loop/string exercise from the last classwork
+7. Ask the user to input two words of the SAME LENGTH. Using a WHILE loop, count
+how many letters are the same between the two strings. For example in spam and
+span, 3 of the letters (s,p,a) are the same. In the words bitter and better,
+5 of the letters are the same. Print out a message telling the user how many
+letters are the same.
 '''
+
 
 
 '''
