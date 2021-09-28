@@ -92,3 +92,18 @@ print("E".isupper())
 print("e".isupper())
 
 the_string = "When I was a Young Boy My Father Took Me Into The CITY to See A Marching BAND"
+
+
+'''
+10. Pretend your user is a Club Penguin player. Ask the user to input a message.
+Use the in operator to check if any of the following "bad words" are in the message
+a Club Penguin user is trying to type. If any of them are, print "You're BLOCKED". Otherwise
+print the message as is.
+
+BAD WORDS:
+- dang
+- gosh
+- shoot
+- fork
+- bench
+'''
