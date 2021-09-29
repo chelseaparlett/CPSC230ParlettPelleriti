@@ -75,5 +75,7 @@ re-write it using a for loop.
 
 
 '''
-7.
+7. Write a for loop that loops through each letter in the string below. Your code
+should replace any consonant (a non-vowel) with a "-", and print back the consonant-less
+string at the end.
 '''
