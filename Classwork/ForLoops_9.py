@@ -6,6 +6,18 @@
 # 1. range(x,y)
 # 2. collections
 # 3. syntax
+# 4. nested for loops
+
+'''
+Write some code that prints out the sum of 1 to n for every number from 2 to
+100.
+'''
+
+'''
+list1 = ["apple", "butter", "flour", "sugar"]
+
+Write some code that counts the number of e's in each of these words.
+'''
 
 # Classwork-----------------------------------------------
 '''
@@ -39,4 +51,29 @@ is GREATER than itself. For example 12 (1,2,3,4,6).
 
 Write a python script that checks whether a number, x, is perfect, deficient,
 or abundant.
+'''
+
+'''
+5. Ask a user to input a positive integer. Continue to ask them if they give you
+a float, or if they give you something 0 or negative.
+
+Once you have their number, calculate the factorial (see: https://en.wikipedia.org/wiki/Factorial)
+for each number from 1 to that number, and print it out (hint, use range()).
+'''
+
+'''
+6. In our first strings classwork, we did this problem:
+
+Ask the user to input two words of the SAME LENGTH. Using a WHILE loop, count
+how many letters are the same between the two strings. For example in spam and
+span, 3 of the letters (s,p,a) are the same. In the words bitter and better,
+5 of the letters are the same. Print out a message telling the user how many
+letters are the same.
+
+re-write it using a for loop.
+'''
+
+
+'''
+7.
 '''
