@@ -7,6 +7,22 @@
 # 2. invoking functions/ calling functions
 # 3. What happens in functions stays in functions
 
+def add_2(n):
+    n = n + 2
+    print("n is " + str(n))
+
+
+x = 2
+print(x)
+add_2(x)
+print(x)
+
+# why doesn't x change? we put it in the function and added 2???
+
+def factor_sum(x):
+
+
+
 # Classwork-----------------------------------------------
 
 '''
