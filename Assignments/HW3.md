@@ -22,9 +22,10 @@ gets 50 or more total points. When the game ends, print out a congratulations to
 ## Human's Turn
 When it is the human’s turn the program should print out "HUMAN'S TURN" and then clearly show the current score of both players.
 
-Allow the human to input “r” for roll and “h” for hold. (Hint: use the input function).
+Ask the human to input “r” for roll and “h” for hold. (Hint: use the input function).
 For each roll they make, print out "You Rolled a " and what they rolled.
 
+IF the human wins on their turn the computer should NOT get a turn after that.
 ## Computer's Turn
 When it is the computer’s turn, you should print out "COMPUTER'S TURN" and then clearly show the current score of both players.
 
