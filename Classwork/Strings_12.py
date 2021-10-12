@@ -41,9 +41,9 @@ What here shall *VERB2*, our toil shall strive to mend.'''
 '''
 2. Write a program that asks the user who the host of Jeopardy was from 1984
 until 2020. Make sure to cont them as correct even if they use different
-capitalization, or if they have extra spaces in their answer. If they're
-correct print "Correct!" and finish the program. Otherwise ask them to
-answer again.
+capitalization, or if they have extra spaces at the beginning or end of the string
+in their answer. If they're correct print "Correct!" and finish the program.
+Otherwise ask them to answer again.
 '''
 
 '''
