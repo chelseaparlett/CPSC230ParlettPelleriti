@@ -15,7 +15,7 @@ holds the sum of all rolls for this turn is added to their score and it becomes 
 
 Write a program that plays the game of Pig where one player is human and the
 other is the computer. The game should end when one player (either human or computer)
-gets 50 or more total points.
+gets 50 or more total points. When the game ends, print out a congratulations to whoever won (computer or human).
 
 ## Human's Turn
 When it is the human’s turn the program should print out "HUMAN'S TURN" and then clearly show the current score of both players.
