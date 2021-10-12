@@ -43,4 +43,5 @@ roll = random.randint(1,6)
 
 
 The image below shows what the first 2 rounds (human AND computer) of Pig might look like:
-<img src = "https://drive.google.com/uc?id=1aQzmLSBb3M7D2gP05Uo1iusgQzY5zBbf" width = 300px/>
+
+![](https://drive.google.com/uc?id=1aQzmLSBb3M7D2gP05Uo1iusgQzY5zBbf)
