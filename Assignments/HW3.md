@@ -1,6 +1,8 @@
 # INSTRUCTIONS
 
 ## PIG.py
+
+## PIG Description
 The game of Pig is a simple two-player dice game in which the first player to reach
 50 or more points wins. Players take turns. On each turn a player can choose to roll
 a 6 sided die, or hold (end their turn). After each roll:
@@ -33,7 +35,7 @@ rolls a 1 at any time during it's turn then the turn is lost and no points are a
 For each roll they make, print out "You Rolled a " and what they rolled.
 <br>
 
-
+## General
 Allow the human player to roll first. A random roll can be simulated with a call to
 random.randint(1,6) which generates a uniform random integer in [1,6]. Make
 sure to import the random module (ie. import random).
