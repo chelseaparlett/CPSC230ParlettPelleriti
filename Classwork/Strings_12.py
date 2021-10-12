@@ -88,7 +88,7 @@ the punctuation and print out 10 characters at a time.
 anything stand out to you about how Mary Shelley writes based soley on her punctuation?)
 '''
 
-punctuation = '''!"#$%&'()*+, -./:;<=>?@[\]^_`{|}~'''
+punctuation = '''!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~'''
 
 text_string = '''You will rejoice to hear that no disaster has accompanied the
 commencement of an enterprise which you have regarded with such evil
