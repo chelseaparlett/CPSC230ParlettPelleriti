@@ -18,12 +18,12 @@ other is the computer. The game should end when one player (either human or comp
 gets 50 or more total points.
 
 ## Human's Turn
-When it is the human’s turn the program should print out "HUMAN'S TURN" and then show the current score of both players.
+When it is the human’s turn the program should print out "HUMAN'S TURN" and then clearly show the current score of both players.
 
 Allow the human to input “r” for roll and “h” for hold. (Hint: use the input function).
 
 ## Computer's Turn
-When it is the computer’s turn, you should print out "COMPUTER'S TURN" and then show the current score of both players.
+When it is the computer’s turn, you should print out "COMPUTER'S TURN" and then clearly show the current score of both players.
 
 You need not to ask the computer to roll or hold. Simply keep rolling
 until the computer has earned 20 or more points and then hold. Remember, if the computer
