@@ -21,6 +21,7 @@ gets 50 or more total points. When the game ends, print out a congratulations to
 When it is the human’s turn the program should print out "HUMAN'S TURN" and then clearly show the current score of both players.
 
 Allow the human to input “r” for roll and “h” for hold. (Hint: use the input function).
+For each roll they make, print out "You Rolled a " and what they rolled.
 
 ## Computer's Turn
 When it is the computer’s turn, you should print out "COMPUTER'S TURN" and then clearly show the current score of both players.
@@ -28,6 +29,8 @@ When it is the computer’s turn, you should print out "COMPUTER'S TURN" and the
 You need not to ask the computer to roll or hold. Simply keep rolling
 until the computer has earned 20 or more points and then hold. Remember, if the computer
 rolls a 1 at any time during it's turn then the turn is lost and no points are added to the computer's total score.
+
+For each roll they make, print out "You Rolled a " and what they rolled.
 <br>
 
 
@@ -44,4 +47,4 @@ roll = random.randint(1,6)
 
 The image below shows what the first 2 rounds (human AND computer) of Pig might look like:
 
-![](https://drive.google.com/uc?id=1aQzmLSBb3M7D2gP05Uo1iusgQzY5zBbf)
+![](https://drive.google.com/uc?id=1_oFOiFpOK4zs1iejqf25fJSY10M3k4Bs)
