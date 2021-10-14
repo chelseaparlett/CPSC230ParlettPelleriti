@@ -31,13 +31,13 @@ following functions:
 
 - Make a function convert_direction() that asks the user for a direction
  they want to go (as a string, north south east or west) and returns it
- to you as 1 for north, 2 for south, 3 for east, 4 for west
+ to you as 1 for north, 2 for south, 3 for east, 4 for west, and 0 if they
+ enter a non-valid string.
 
 - Make a function multi_message() that takes multiple things you want to
 say to your adventurer split by a semicolon (e.g. “Hello; Welcome Adventurer;
  You are in a castle; Which direction do you want to go?”) and outputs the
- messages, each on a new line. Call your adventure_mess() function in the
- process.
+ messages, each on a new line.
 
  - Make a function called amIDeadYet() that takes in damage (an int) and
  HP (health points; an int) and returns the new updated health after taking
@@ -72,4 +72,8 @@ replacements listed below. Make sure to account for capitals!
 3. Write a function, is_prime(), that takes in a positive integer and returns True if the integer
 is prime, and False otherwise (feel free to recycle code you've used to check primes
 before!)
+
+
+Think carefully about how we can take advantage of the behavior of return() to potentially help
+simplify our code.
 '''
