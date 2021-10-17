@@ -19,6 +19,8 @@ to itself. E.g. 6 (1 + 2 + 3 = 6).
 '''
 2. Write a function pal_checker() that takes in a string, s, and returns True
 if it is a palindrome, and False if it is not. Make the default string "kayak".
+
+Make sure to account for upper and lower cases (e.g. Kayak is still okay).
 '''
 
 
@@ -36,6 +38,12 @@ the factorial of that number. Make the default value 9.
 5. Write a function adder_subtracter() that takes in a STRING, eq, which looks
 like '5 + 2' or '10 - 4' or '16 - 30' and performs the operation intended by
 the user, returning the result. Make the default string '1 + 1'.
+
+You can assume the structure will ALWAYS be:
+
+some number, a space, either + or -, a space, and then another number.
+
+However the numbers might be big like 19834.
 '''
 
 '''
@@ -65,7 +73,7 @@ add_tags('b', 'NO') -> '<b>NO</b>'
 
 '''
 9. Write a function, nic_cager(), that takes in a string, and replaces any
-instance of the word "you" (any capitalization) with "Nicholas Cage". Return
+instance of the word "you" (any capitalization like "you", OR "You") with "Nicholas Cage". Return
 the new string. And set the default value to be "I love you". Call your function
 using the defaults.
 '''
