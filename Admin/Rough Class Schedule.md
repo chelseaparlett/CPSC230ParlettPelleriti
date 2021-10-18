@@ -65,10 +65,10 @@
   * For Loops (4.5-4.10)
       - Chapter 4
   * Quiz
-  * Participation Activities Due (4.5-4.10)
+  * Participation Activities Due (4.5-4.11)
 
 ### Friday
-* Challenge Activities Due (4.5-4.10; 5.1-5.2)
+* Challenge Activities Due (4.5-4.11; 5.1-5.2)
 
 ## Week 6
 ### Class 10
