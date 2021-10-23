@@ -22,6 +22,7 @@ So the output of the function could look something like this if the player made
 
 '''
 
+# let's talk about how we formed bridge!
 
 import random
 
@@ -111,3 +112,31 @@ and THEN ask the player to choose left or right ('l' or 'r') once that list runs
 For example, if the playe knows the first 3 steps are ['l', 'r', 'l'], have them take
 those steps, and then on the 4th step (when we don't know which is safe) ask them to choose 'l' or 'r'.
 '''
+
+'''
+6. Turn the following for loops into list comprehensions
+'''
+
+l = []
+for i in range(0,10):
+    l.append(i**2)
+
+
+for person in people:
+    print(person + " is silly")
+
+
+def perfect(n):
+    factors = 1
+
+    for i in range(1,n):
+        if n%i == 0:
+            factors *= i
+    if factors == n:
+        return(True)
+    else:
+        return(False)
+
+is_perf = []
+for j in range(1,26):
+    is_perf.append(perfect(j))
