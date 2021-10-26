@@ -4,7 +4,7 @@
 
 ## Instructor: Dr. Chelsea Parlett-Pelleriti (cparlett@chapman.edu)
 ## Lecture: TTh 4pm-5:15pm
-## Office Hours: MW 10am-11am, W 6pm-7pm, TTh 11:30am-1pm
+## Office Hours: MW 10am-11am, W 6pm-7pm, TTh 11:20am-12:50pm
 ## TLT Office Hours
 * [Here](https://www.chapman.edu/students/academic-resources/tutoring-center/_files/tutoring-schedules/cpsc-230.pdf)
 
