@@ -11,7 +11,7 @@ Each list should have (in THIS SPECIFIC ORDER):
 - A list representing their special attack range (e.g. [10,20] if their special attack can do between 10 and 20 damage per attack.) You can choose this range how ever you'd like, as long as the range is only positive numbers.
 - An integer (start it at 100) representing their health levels.
 - An integer between 2 and 5 representing the cooldown for their special attack (e.g. if their cooldown is 2, they can only use their special attack after using the basic attack at least twice.) Choose whichever number you want in that range.
-- An integer, `turns_since_special`, that is 0, and represents the number of turns since the player has used their special attack.
+- An integer, (that is currently 0), and represents the number of turns since the player has used their special attack.
 
 2. (5 points) The user will play as `player1` and the computer as `player2`. Print out a welcome message that tells the player their character's name, and class. (E.g. `"Welcome to Battledome. You're playing [name] who is a [class]!"`)
 
