@@ -13,19 +13,16 @@ while num_not_found:
         num = int(num)
         num_not_found = False
 
-print(5/num)
+
 
 
 # multiple exceptions
 
-
-
 # multiple exceptions 2
-
+my_list = ["apple", "corn", "jam", "beets"]
 
 
 # raising errors
-
 
 # now
 
@@ -33,5 +30,13 @@ print(5/num)
 # raising errors 2
 
 
-
 # finally
+
+try:
+    #open and read file
+    poem = open("my_poema.txt", "r")
+    for line in poem:
+        print(line)
+except:
+    # if file doesn't exist
+    print("This file does not exist?!")
