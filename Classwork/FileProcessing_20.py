@@ -12,35 +12,6 @@
 # through? characters? lines? paragraphs?
 
 # open the file Beyonce_data.csv and print out the mean danceability for her songs.
-import csv
-bey = open("/Users/cparlett/Desktop/Desktop/School/CPSC230ParlettPelleriti/ResourcesAndData/Beyonce_data.csv", "r")
-
-reader = csv.reader(bey, delimiter = ",")
-
-header = True
-sum_dance = []
-
-for row in reader:
-    if header:
-        dance_ind = row.index("danceability")
-        print(row)
-        header = False
-    else:
-        sum_dance.append(float(row[dance_ind]))
-
-print(sum(sum_dance)/len(sum_dance))
-
-bey.close()
-
-#
-frank = open("../ResourcesAndData/BookTXTFiles/Frakenstein.txt", "r")
-
-punc_count = 0
-for line in frank:
-    for char in line:
-        if char in ".!?":
-            punc_count += 1
-print(punc_count)
 '''
 1. Write a function, letter_counter() that takes in the name of a file as a string (fn),
 and a letter (letter) as arguments and returns the number of times that character
