@@ -9,7 +9,6 @@
 # 4. finally
 
 
-
 '''
 1. Write a function, story_reader(), which takes in an argument, f, which is a
 filename/filepath to a text file containint a book/story. Use try and except
