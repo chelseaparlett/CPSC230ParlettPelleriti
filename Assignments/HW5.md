@@ -10,9 +10,7 @@ Suppose you have a file, *replace.txt*, that specifies the replacement for every
 uppercase letter in the alphabet. This file consists of 52 rows (26 for lowercase, 26 for
 uppercase) of the following form:
 ---
-X Y
-
-j l
+<img src='https://drive.google.com/uc?export=view&id=1mPXgEgbGMTVMH8TEcil7KG4rT4QfLjGj' />
 ---
 This is interpreted to mean X is replaced by Y, and j is replaced by l. So basically *replace.txt* is just providing a
 mapping of characters in the unencrypted text to characters in the encrypted text. (At this
