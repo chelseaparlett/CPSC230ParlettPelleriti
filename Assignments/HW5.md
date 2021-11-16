@@ -9,9 +9,9 @@ every letter can only be replaced by the same letter throughout the text.
 Suppose you have a file, *replace.txt*, that specifies the replacement for every lowercase and
 uppercase letter in the alphabet. This file consists of 52 rows (26 for lowercase, 26 for
 uppercase) of the following form:
----
+
 <img src='https://drive.google.com/uc?export=view&id=1mPXgEgbGMTVMH8TEcil7KG4rT4QfLjGj' />
----
+
 This is interpreted to mean X is replaced by Y, and j is replaced by l. So basically *replace.txt* is just providing a
 mapping of characters in the unencrypted text to characters in the encrypted text. (At this
 point you should be thinking about dictionaries…)
