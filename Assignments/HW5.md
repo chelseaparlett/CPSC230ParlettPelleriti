@@ -11,6 +11,7 @@ uppercase letter in the alphabet. This file consists of 52 rows (26 for lowercas
 uppercase) of the following form:
 ---
 X Y
+
 j l
 ---
 This is interpreted to mean X is replaced by Y, and j is replaced by l. So basically *replace.txt* is just providing a
