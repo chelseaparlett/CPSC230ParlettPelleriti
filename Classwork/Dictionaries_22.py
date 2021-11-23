@@ -7,6 +7,28 @@
 # 2. Adding key:value pairs
 # 3. Overwriting key:value pairs
 # 4. .get()
+# to clarify
+
+# DictReader
+import csv
+
+b = "Beyonce_data.csv"
+f = open(b, "r")
+
+dr = csv.DictReader(f)
+
+for row in dr:
+    print(row)
+
+
+# harry potter
+# We're going to write a dictonary to store spells and
+# How much damage they do
+
+spells = {}
+spells["accio"] = 1
+spells["avada kedavra"] = 100
+spells["lumos"] = 2
 
 '''
 1. Using the spells dictionary we created above, let's create a wizard battle! Make
@@ -174,7 +196,7 @@ appreciation for the work you do at our company. You have worked for years_worke
 long years as a job_title , and have made the company 100x as much money as
 we've paid you! This makes us incredibly happy, and we hope to continue this
 professional relationship. There's a treat in the break room for you. Truly
-a pleasure to work with you, first_name.
+a pleasure to work with you, first_name .
 
 Best,
 Management
@@ -223,7 +245,7 @@ Call your function.
 '''
 
 '''
-8. Using csv.DictReader(), open the file avocado.csv (found under ResourcesAndData
+8. Using csv.DictReader(), open the file Beyonce_data.csv (found under ResourcesAndData
 on GitHub) and put it through csv.DictReader() which is like csv.reader but returns
 rows as a dictionary, rather than a list.
 
