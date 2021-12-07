@@ -174,3 +174,97 @@ print(netflix.symmetric_difference(hulu.union(amazon_prime)) - hulu.intersection
 #
 # c = PlayingCard("Ace", "Spades")
 # print(c)
+
+
+#---------------------------------------------------------------------------
+'''
+1. Create a function called election() which takes in no arguments. The function
+should ask the user who they want to vote for, then store the vote counts in a dictionary
+called votes. Continue to ask for more votes until the person enters the word "done" instead
+of a candidate name.
+
+print the winner and a congratulating message.
+return the dictionary of vote counts.
+'''
+
+'''
+2. Create a function, dictionary_maker() that takes in two arguments: keys (a list of
+keys for a dictionary), and values (a list of values for the dictionary).
+
+Raise an error if keys and values are different lengths.
+
+Create a dictionary with the key, value pairs and return the dictionary.
+
+Call your function.
+'''
+
+'''
+3. Create a class, CourseGrade, that has the instance attributes:
+- participation_perc: percentage grade for participation
+- challenge_perc: percentage grade for challenges
+- homework_perc: percentage grade for homework
+- exam_1_perc: percentage grade for exam1 (total)
+- exam2_perc: percentage grade for exam2 (total)
+- final_perc: : percentage grade for final (total)
+
+create an __init__ function that sets these instance attributes (except final_perc
+which should be 0) using arguments.
+
+create a total_grade() method which calculates and returns the grade for this
+person using the following weights (note grade may be low due to final_perc
+currently being 0):
+
+- participation_perc: 15%
+- challenge_perc: 5%
+- homework_perc: 40%
+- exam_1_perc: 10%
+- exam2_perc: 10%
+- final_perc: : 20%
+
+create a final_score() method that takes in an argument, desired_grade (a float,
+0-100). This method should calculate the grade needed for final_perc in order to
+get desired_grade in the class. (e.g. given your current scores for
+participation_perc, challenge_perc, homework_per, exam_1_perc, and exam2_perc,
+what % score do you need on final_perc to get desired_grade)?
+
+this method should:
+- raise a ValueError if their desired_grade is impossible (either too high or
+too low for the student to get)
+- otherwise return the minimum needed final_perc in order to get desired_grade.
+'''
+
+'''
+4. Using the Beyonce_data.csv file, open a connection to the file, and read it in
+using csv.DictReader(). Then calculate and print out:
+- the most common letter (case doesnt matter) in Beyonce song titles
+- the mean danceability for each mode (1-major, 0-minor)
+- a count of the number of songs in each key
+'''
+import csv
+
+
+'''
+For the questions below, assume that student dictionaries have the following keys:
+- Name ( their first and last name as a single string)
+- GPA ( a float with their GPA)
+- Major ( a string with their major)
+- Classes_Taken (a list of all the course codes--e.g. CPSC 392--they’ve taken)
+- Expected_Graduation (an int of the year they expect to graduate)
+- Favorite_Class (a string of a course code--e.g. CPSC 392)
+
+5. Write a function, tough_majors(), which takes in a list, fowler_students,
+as an argument. The list, fowler_students, is a list of multiple student
+dictionaries structured the same way as in #1. Assume there could be any number
+of students in the list.
+
+The majors for fowler students are: “computer science”, “electrical engineering”,
+“computer engineering”, “data science”, and “software engineering”. Raise an
+error if the major of one of the students is not one of those 5.
+
+For each of these 5 majors, calculate the mean GPA for students in each major,
+and return a dictionary with the mean GPAs for each major (e.g.
+{“computer science” : 0, “electrical engineering”: 0, “computer engineering”: 0,
+“data science”: 0,“software engineering”: 0}, but with the actual means instead
+ of 0’s).
+
+'''
