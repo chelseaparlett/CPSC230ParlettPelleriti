@@ -24,11 +24,12 @@ Students are introduced to problem-solving methods and algorithm development thr
 4.	Match computing concepts with their definitions
 5.	Demonstrate ability to express software solutions for problems from various domain areas
 
+
 ## Program Learning Outcomes
 The Chapman experience creates outcomes which are consistent with our identity. Similar to the General Education program, each degree program, or major, at Chapman has a unique set of learning outcomes, or student abilities that are not only related to Chapman's institutional mission and goals, but also unique to the student's discipline or field of study. For more information, [Fowler School of Engineering Program Learning Outcomes](https://docs.google.com/document/d/1OESCtPUolnWFV_qRFuRzNrzxmUtYr5H-dFaYVmPUKY0/edit?usp=sharing).
 
-## General Education Learning Outcomes
-Students create sophisticated arguments supported by quantitative evidence and can clearly communicate those arguments in a variety of formats (using words, tables, graphs, mathematical equations, etc., as appropriate).
+## Quantitative Inquiry Learning Outcome
+Students create sophisticated arguments supported by quantitative evidence and can clearly communicate those arguments in a variety of formats (using words, tables, graphs, mathematical equations, etc., as appropriate)
 
 
 ## Overview
