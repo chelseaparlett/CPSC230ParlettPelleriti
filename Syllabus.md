@@ -11,7 +11,7 @@
 ## INSTALLS
 
 * [Install Python](https://www.python.org/downloads/)
-* [Install Atom](https://atom.io/)
+* [Install VSCode](https://code.visualstudio.com/download)
 
 ## Course Description
 Students are introduced to problem-solving methods and algorithm development through an interactive and easy-to-learn programming language, Python. CPSC 230 is a 3-unit course.
@@ -68,7 +68,7 @@ There will be weekly quizzes on the reading and lecture material. Missed quizzes
 There will also be  two in-class exams and take home projects and a final exam and take home project, which must be taken on the dates specified. *I don't believe taking tests while sick demonstrates your true ability, so in the case of a well-documented, unavoidable conflict or illness, I will do my best to accommodate you. You must notify me prior to missing the exam.*
 
 ## Course Grade:
-### Attendance/ Participation (Participation Activities*, in-class activities, quizzes)
+### Attendance/Participation (in-class activities, quizzes)
 15 %
 ### Challenge Activities*:
 5%
