@@ -5,6 +5,29 @@
 # 0. Questions?
 # 1. If/Else
 # 2. Making an "algorithm"
+# 3. not
+
+if True:
+    # code
+else:
+    # code
+
+# ask the user for a number between 1 and 10. Check that their
+# number actually is between 1 and 10. Then check if their
+# number is odd. If it is, print "Odd", otherwise print
+# "Even".
+# 1. first write out the steps you'll need to take.
+# 2. then write the code to accomplish these steps
+
+print(not True)
+
+# 
+
+tired = True
+
+if not tired:
+    print("I'm going to go for a run!")
+
 
 # Classwork-----------------------------------------------
 '''
@@ -40,4 +63,8 @@ out "Me too!".
 5. Ask the user to input a number. Make sure to cast it to an int. Then,
 Check whether they're number is divisible by 13. If it is print out
 "Wow, this number is divisible by 13". Otherwise print out nothing.
+'''
+
+'''
+6.
 '''
