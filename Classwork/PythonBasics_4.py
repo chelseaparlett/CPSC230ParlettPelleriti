@@ -15,6 +15,12 @@
 # What Order should we go in?
 # how could we write this BETTER?
 
+# Manhattan vs. Euclidean Distance (https://medium.com/geekculture/understand-manhattan-vs-euclidean-distance-in-minutes-f10f7a65a90f)
+# can you find a distance where Euclidean distance and
+# manhattan distance are the same? Check your answer.
+# Can you find a distance where Euclidean distance is
+# shorter than manhattan distance? Check your answer.
+
 
 # Frasier Episodes (https://en.wikipedia.org/wiki/List_of_Frasier_episodes)
 # Frasier had 264 wonderful episodes, 24 per season for 11 seasons. 
@@ -29,7 +35,7 @@
 # counting at 0 and then just added 1 after? E.g. what if the seasons
 # were numbered 0-10, and episodes 0-23? Would that be easier?
 
-ep_num = 25
+frasier = 25
 
 season = ???
 episode = ???
