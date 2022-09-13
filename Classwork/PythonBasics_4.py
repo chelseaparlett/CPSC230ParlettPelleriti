@@ -20,6 +20,14 @@
 # manhattan distance are the same? Check your answer.
 # Can you find a distance where Euclidean distance is
 # shorter than manhattan distance? Check your answer.
+# (https://docs.python.org/3/library/math.html)
+
+x1 = 1
+x2 = 2
+
+y1 = 1
+y2 = 10
+
 
 
 # Frasier Episodes (https://en.wikipedia.org/wiki/List_of_Frasier_episodes)
@@ -35,12 +43,12 @@
 # counting at 0 and then just added 1 after? E.g. what if the seasons
 # were numbered 0-10, and episodes 0-23? Would that be easier?
 
-frasier = 25
+# frasier = 25
 
-season = ???
-episode = ???
+# season = ???
+# episode = ???
 
-print(...)
+# print(...)
 # Classwork-----------------------------------------------
 '''
 1. Without using Python, figure out the answer to this statement:
