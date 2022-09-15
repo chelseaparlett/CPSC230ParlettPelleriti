@@ -45,10 +45,10 @@ is bad. Make sure each password:
 3. What's wrong with this while loop and how can you fix it?
 '''
 
-x = 1
-while x < 10:
-    print("smol number")
-print("number is no longer smol")
+# x = 1
+# while x < 10:
+#     print("smol number")
+# print("number is no longer smol")
 
 '''
 4. Write some code that asks the user to enter the course code (e.g. CPSC 230)
@@ -79,13 +79,3 @@ my_string = "" # to keep track of inputs
 inputs = input("Enter one Letter") # current input
 
 
-'''
-7. Use a while loop and indexing to loop through the characters in a string and
-count the number of e's, t's, n's, o's, r's, i's, a's, and s's. Keep each count
-in it's own variable. Make sure to count both capital and lower cases as the
-same letter (e.g. "a" and "A" both count as an a.)
-'''
-
-the_string = '''Brave Sir Robin ran away. Bravely ran away away. When danger
-reared it's ugly head, he bravely turned his tail and fled. Brave Sir Robin
-turned about and gallantly he chickened out'''
