@@ -4,8 +4,8 @@
 
 # 0. Questions?
 # 1. If vs. while
-# 2. Sentinel Loops
-# 3. Continue vs. Break
+# 2. Continue vs. Break
+
 
 # Classwork-----------------------------------------------
 '''
@@ -74,8 +74,8 @@ all the characters they've input so far (remember the + operator for strings).
 If they enter an empty string "", stop the loop. Print out my_string at the end.
 '''
 
-my_string = "" # to keep track of inputs
+# my_string = "" # to keep track of inputs
 
-inputs = input("Enter one Letter") # current input
+# inputs = input("Enter one Letter") # current input
 
 
