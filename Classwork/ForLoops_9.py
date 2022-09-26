@@ -8,16 +8,12 @@
 # 3. syntax
 # 4. nested for loops
 
-'''
-Write some code that prints out the sum of 1 to n for every number from 2 to
-100.
-'''
+my_list = ["keys", "wallet", "gum", "lipstick", "laptop",
+"phone", "sunglasses", "tissue", "kayak", "bluefin", "racecar"]
 
-'''
-list1 = ["apple", "butter", "flour", "sugar"]
 
-Write some code that counts the number of e's in each of these words.
-'''
+
+
 
 # Classwork-----------------------------------------------
 '''
@@ -78,4 +74,17 @@ re-write it using a for loop.
 7. Write a for loop that loops through each letter in the string below. Your code
 should replace any consonant (a non-vowel) with a "-", and print back the consonant-less
 string at the end.
+'''
+the_string = "Head Shoulders Knees and Toes" # sorry I forgot to save the string in the original file!
+
+'''
+8. Re-write this while loop as a For Loop.
+'''
+
+'''
+9. Use a for loop (or more than one...) to check which numbers between 2-15 (inclusive)
+are prime. Remember prime numbers are ONLY divisible by 1 and themselves.
+Print out "[number] prime" if a number is prime and
+"[number] not prime" if it is not, where [number] is replaced by the current number
+that you're checking.
 '''
