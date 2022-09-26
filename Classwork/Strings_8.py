@@ -6,7 +6,22 @@
 # 1. Creating Strings
 # 2. String Operations
 # 3. In
-"aeu" in "aeiou"
+
+# Using a while loop, loop through the indices of a string
+# message, and count the number of spaces. 
+
+message = "Listen: Strange women lying in ponds distributing swords is no basis\
+     for a system of government!  Supreme executive power derives from a mandate\
+     from the masses, not from some... farcical aquatic ceremony! You can't \
+    expect to wield supreme executive power just 'cause some watery tart threw\
+     a sword at you!! I mean, if I went 'round, saying I was an emperor, just\
+     because some moistened bink had lobbed a scimitar at me, they'd put me away!"
+
+
+# What will this print out?
+y = "piUk pudolYj oeVvliPGm  alnlntokG  NreeJvWeON"
+print(y[::-2])
+print(y[::])
 # Classwork-----------------------------------------------
 '''
 1. Grab and print the name "Chelsea" from the following strings using string
