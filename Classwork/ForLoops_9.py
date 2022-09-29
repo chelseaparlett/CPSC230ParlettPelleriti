@@ -8,6 +8,34 @@
 # 3. syntax
 # 4. nested for loops
 
+
+# Write some code that prints out the sum of 1 to n for every number from 2 to
+# 100 using a for loop.
+
+
+
+
+# Write some code that counts and prints the number of e's 
+# in each of these words.
+list1 = ["apple", "butter", "flour", "sugar"]
+
+
+
+# use a for loop to print out the numbers between
+# 0 to 100 (inclusive) that are divisible by 13. 
+
+
+
+# for/else
+for i in collection:
+    pass
+else:
+    pass
+# using a for loop, write some code that checks if a
+# word is a palindrome. If it is, print "[word] is a palindrome",
+# where [word] is the palindromic word, and exit the loop.
+# if you don't find one, print "sorry"
+
 my_list = ["keys", "wallet", "gum", "lipstick", "laptop",
 "phone", "sunglasses", "tissue", "kayak", "bluefin", "racecar"]
 
@@ -75,12 +103,20 @@ re-write it using a for loop.
 should replace any consonant (a non-vowel) with a "-", and print back the consonant-less
 string at the end.
 '''
-the_string = "Head Shoulders Knees and Toes" # sorry I forgot to save the string in the original file!
+the_string = "Head Shoulders Knees and Toes" 
 
 '''
 8. Re-write this while loop as a For Loop.
 '''
-
+i = 0
+word = "fnkwejnfoijfowijoijwoeirj"
+while i < len(word):
+    print(word[i])
+    if word[i] == "e":
+        print("OH NO I'M SCARED OF E!!!!!!")
+        break
+    else:
+        i += 1
 '''
 9. Use a for loop (or more than one...) to check which numbers between 2-15 (inclusive)
 are prime. Remember prime numbers are ONLY divisible by 1 and themselves.
