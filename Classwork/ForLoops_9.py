@@ -9,32 +9,8 @@
 # 4. nested for loops
 
 
-# Write some code that prints out the sum of 1 to n for every number from 2 to
-# 100 using a for loop.
-
-
-
-
-# Write some code that counts and prints the number of e's 
-# in each of these words.
 list1 = ["apple", "butter", "flour", "sugar"]
 
-
-
-# use a for loop to print out the numbers between
-# 0 to 100 (inclusive) that are divisible by 13. 
-
-
-
-# for/else
-for i in collection:
-    pass
-else:
-    pass
-# using a for loop, write some code that checks if a
-# word is a palindrome. If it is, print "[word] is a palindrome",
-# where [word] is the palindromic word, and exit the loop.
-# if you don't find one, print "sorry"
 
 my_list = ["keys", "wallet", "gum", "lipstick", "laptop",
 "phone", "sunglasses", "tissue", "kayak", "bluefin", "racecar"]
