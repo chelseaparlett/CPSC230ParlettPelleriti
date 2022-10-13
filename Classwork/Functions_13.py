@@ -7,6 +7,8 @@
 # 2. invoking functions/ calling functions
 # 3. What happens in functions stays in functions
 
+
+
 # why doesn't x change? we put it in the function and added 2???
 # functions calling functions, frames, and the stack
 
@@ -22,6 +24,24 @@
 
 # namespaces
 
+
+# call stack
+def a():
+    spam = "ANOVA"
+    print("spam is " + spam)
+    b()
+    print("spam is " + spam)
+def b():
+    spam = "BAYES"
+    print("spam is " + spam)
+    c()
+    print("spam is " + spam)
+def c():
+    spam = "COVARIANCE"
+    print("spam is " + spam)
+
+a() 
+# what will print out?
 
 
 # Classwork-----------------------------------------------
