@@ -7,19 +7,20 @@
 # 2. invoking functions/ calling functions
 # 3. What happens in functions stays in functions
 
-def add_2(n):
-    n = n + 2
-    print("n is " + str(n))
-
-
-x = 2
-print(x)
-add_2(x)
-print(x)
-
 # why doesn't x change? we put it in the function and added 2???
+# functions calling functions, frames, and the stack
 
-def factor_sum(x):
+
+# # what will this print out?
+# print("hello!")
+# x = multiply(2,4)
+# print(x)
+
+# y = square(6)
+# print(y)
+
+
+# namespaces
 
 
 
@@ -76,4 +77,13 @@ before!)
 
 Think carefully about how we can take advantage of the behavior of return() to potentially help
 simplify our code.
+'''
+
+'''
+4. write a perfect number function, print whether or not something
+is a perfect number, and return True if it is, and False
+if it isnt.
+
+Remember a perfect number is one where the sum of its divisors
+(exculding itself) is equal to the number.
 '''
