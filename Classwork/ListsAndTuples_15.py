@@ -7,6 +7,20 @@
 # 2. tuples
 # 3. mutability
 
+# looping through a list in a list
+recipe_ingredients = [["cheese", "chicken", "tomato sauce", "basil", "breadcrumbs"],
+["chickpeas", "cucumber", "tzatziki", "hummus", "tomatoes", "onion"],
+["hamburger", "bun", "ketchup", "lettuce", "pickles", "mayo"],
+["white beans", "celery", "diced tomatoes", "shallots", "broth"]]
+
+# how could I grab "tzatziki" from recipe_ingredients using indexing?
+
+# if I loop through recipe_ingredients, and print out each item, what will print out each time?
+
+# what if I wanted to go through the ingredients instead one by one?
+
+# how can I access "celery" from recipe_ingredients?
+# I'm allergic to gluten! I need to replace "bun" with "gluten free bun". HOW!?
 
 # Classwork-----------------------------------------------
 '''
@@ -15,7 +29,7 @@ E.g. Jane Anne Doe) of the people in your group. Using a for loop, loop
 through the strings, and print out their names in Last, First Middle format
 (e.g. Doe, Jane Anne).
 '''
-
+[
 '''
 2. Turn this while loop into a for loop.
 '''
