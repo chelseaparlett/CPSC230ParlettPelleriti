@@ -7,6 +7,61 @@
 # a function is done running?
 # 2. What type of object does a f(x) need to return to do MA?
 
+x = []
+for i in range(0,10):
+    x.append(i**2)
+
+x = []
+for i in range(0,10):
+    if i % 2 == 0:
+        x.append(i**2)
+
+# change into list comprehension
+
+
+b = ["John", "Jacob", "Smith"]
+
+def bff_adder(bffs, new_bff):
+    bffs.append(new_bff)
+
+bff_adder(b, "James")
+print(b)
+
+x = 2
+def number_squarer(n):
+    n = n**2
+
+print(x)
+# number_squarer(x)
+
+# why does the list we put into bff_adder stay changed, but n doesnt?
+
+
+def feedback_taker():
+    feedback = []
+
+    qs = ["What's one thing you enjoy about this class? ",
+    "What's one thing you would change about this class? ",
+    "How many hours per week do you spend on this class? ",
+    "Are you taking this class as part of a requirement? "]
+
+    for q in qs:
+        answer = input(q)
+        feedback.append(answer)
+
+    return(feedback)
+
+# what will return here?
+# how many items will this list have?
+
+
+tony_feedback = feedback_taker()
+print(tony_feedback)
+
+# how can i change this variable assingment to use multiple assignment?
+
+# https://github.com/cmparlettpelleriti/CPSC392ParlettPelleriti/blob/master/Extras/ShinyHangman.ipynb
+
 # Classwork-----------------------------------------------
 '''
 1. Write a function, top_3_movies() that asks the user to list their top 3
@@ -30,9 +85,9 @@ Call your function as noted below. Does my_list change? Why?
 '''
 
 # to run after you create item_replacer()
-my_list = ["b", "e", "t", "t", "e", "r"]
-item_replacer(i = 1, s = "i", l = "my_list")
-print(my_list)
+# my_list = ["b", "e", "t", "t", "e", "r"]
+# item_replacer(i = 1, s = "i", l = "my_list")
+# print(my_list)
 
 '''
 4. Look at the function list_creator() below. Call it using the strings "c", "a",
@@ -40,9 +95,9 @@ and "p" as arguments. Does this_list exist AFTER the function has run? Print thi
 out to check. Why do you think this happens?
 '''
 
-def list_creator(i1,i2,i3):
-    this_list = [i1,i2,i3]
-    print(this_list)
+# def list_creator(i1,i2,i3):
+#     this_list = [i1,i2,i3]
+#     print(this_list)
 
 # print it out
 
@@ -63,10 +118,10 @@ Why can we do this?
 '''
 
 
-# run after defining prime_finder2()
-my_primes = []
-prime_finder2(n = 20, list_blank = my_primes)
-print(my_primes)
+# # run after defining prime_finder2()
+# my_primes = []
+# prime_finder2(n = 20, list_blank = my_primes)
+# print(my_primes)
 
 '''
 7. 1. Write a function, go_fish(), that takes in a list, hand, of playing cards
