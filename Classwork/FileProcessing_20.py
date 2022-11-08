@@ -12,13 +12,16 @@
 # through? characters? lines? paragraphs?
 
 # open the file Beyonce_data.csv and print out the mean danceability for her songs.
+
+# open the frankenstein file and count the number of punctuations ".?!"
+
 '''
 1. Write a function, letter_counter() that takes in the name of a file as a string (fn),
 and a letter (letter) as arguments and returns the number of times that character
 occurs in the file (regardless of case).
 
 Download the file heardofdarkness.txt from the course GitHub (under ResourcesAndData).
-Read in this file using python. Count the number of c's, e's, and s's in the file.
+Count the number of c's, e's, and s's in the file.
 '''
 
 
