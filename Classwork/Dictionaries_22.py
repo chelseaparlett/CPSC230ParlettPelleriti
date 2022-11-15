@@ -8,6 +8,43 @@
 # 3. Overwriting key:value pairs
 # 4. .get()
 # to clarify
+# dog = {"name": "Joey", "breed": "corgi",  "time_since_last_meal": 6}
+#
+# dog["age"] = dog.get("age",0) + 1
+#
+# dog["owner"] = "Chelsea"
+#
+#
+# dog["owner"] = "Tony"
+#
+#
+# # use a dictionary to store the prime factors of the numbers 4-40 where the
+# # number is the key, and the value is a list of it's prime factors.
+#
+# def prime_factors(n):
+#     i = 2
+#     factors = []
+#     while i * i <= n:
+#         if n % i: # if i is not a factor of n
+#             i += 1 # check next number
+#         else:
+#             n //= i # divide n by that factor
+#             factors.append(i) # add factor to list
+#     if n > 1:
+#         factors.append(n)
+#     return factors
+# d = {}
+#
+
+
+# # loop through this dictionary and print out any number that has 5 as a
+# # prime factor.
+
+
+# # loop through this dictionary and print out any number that does NOT HAVE 2 as a
+# # prime factor.
+
+
 
 # DictReader
 import csv
@@ -15,20 +52,13 @@ import csv
 b = "Beyonce_data.csv"
 f = open(b, "r")
 
-dr = csv.DictReader(f)
-
-for row in dr:
-    print(row)
 
 
 # harry potter
 # We're going to write a dictonary to store spells and
 # How much damage they do
 
-spells = {}
-spells["accio"] = 1
-spells["avada kedavra"] = 100
-spells["lumos"] = 2
+
 
 '''
 1. Using the spells dictionary we created above, let's create a wizard battle! Make
@@ -73,18 +103,6 @@ string.punctuation gives you a collection of all the punctuation marks.
 Make sure to close your file when you're done.
 
 '''
-import string
-
-f = open("/Users/cparlett/Desktop/Desktop/School/CPSC230ParlettPelleriti/ResourcesAndData/BookTXTFiles/therepublic.txt", "r")
-
-word_counts = {}
-for line in f:
-    for punc in string.punctuation:
-        line = line.replace(punc, "")
-    for word in line.split(" "):
-        if word.lower() in ["and", "or", "if", "to", "of", "all", "he"]:
-            word_counts[word.lower()] = word_counts.get(word.lower(),0) + 1
-print(word_counts)
 
 
 '''
