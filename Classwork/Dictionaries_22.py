@@ -8,16 +8,10 @@
 # 3. Overwriting key:value pairs
 # 4. .get()
 # to clarify
-# dog = {"name": "Joey", "breed": "corgi",  "time_since_last_meal": 6}
-#
-# dog["age"] = dog.get("age",0) + 1
-#
-# dog["owner"] = "Chelsea"
-#
-#
-# dog["owner"] = "Tony"
-#
-#
+
+
+
+
 # # use a dictionary to store the prime factors of the numbers 4-40 where the
 # # number is the key, and the value is a list of it's prime factors.
 #
@@ -34,7 +28,7 @@
 #         factors.append(n)
 #     return factors
 # d = {}
-#
+
 
 
 # # loop through this dictionary and print out any number that has 5 as a
@@ -52,6 +46,10 @@ import csv
 b = "Beyonce_data.csv"
 f = open(b, "r")
 
+dr = csv.DictReader(f)
+
+for row in dr:
+    print(row)
 
 
 # harry potter
