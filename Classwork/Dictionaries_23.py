@@ -3,13 +3,37 @@
 # Together------------------------------------------------
 
 # 0. Questions?
-# 1.
-# 2.
-# 3.
+# 1. in
+# 2. loops
+# 3. sets
 # 4.
 
+# in in dicts
+
+d = {"name": "Igui" , "GDP (in millions)": 26656766, "unemployment rate": 4.88,
+"number of flu cases (2020)": 189234, "population": 1439323776,
+"socialized healthcare": True, "national language": "English",
+"life expectancy": 78.6, "CO2 emissions (in tons)": 15.12}
 
 
+
+# sets
+ great_britain = {"Scotland", "England", "Wales"}
+ uk_of_gb_and_northern_ireland = {"Scotland", "England", "Wales", "Northern Ireland"}
+ ireland = {"Northern Ireland", "Republic of Ireland"}
+ british_isles = {"Scotland", "England", "Wales", "Northern Ireland",
+  "Republic of Ireland", "Isle of Man"}
+
+
+## union
+
+
+## difference
+
+
+## intersection
+
+## symmetric difference
 
 
 '''
